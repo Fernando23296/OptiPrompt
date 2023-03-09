@@ -1,5 +1,16 @@
 # OptiPrompt
 Run qa_admin_2.py to execute the code
+Change the following values, based on your question:
+___
+val_trusted_list = ["True", "False"]
+val_target_list = ["Yes","No"]
+
+# Don't forget to put a space at the end
+val_question_list = ['I would need to double check but maybe ']
+
+# if you don't want to add new questions then leave the brackets empty
+SEQUENCES = "tt"
+TEMPLATES = "normal"
 ___
 This is the PyTorch implementation of the paper [Factual Probing Is [MASK]: Learning vs. Learning to Recall](https://arxiv.org/pdf/2104.05240.pdf).
 
