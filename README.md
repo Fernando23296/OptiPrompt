@@ -1,7 +1,7 @@
 # OptiPrompt
 Run qa_admin_2.py to execute the code
 Change the following values, based on your question:
-___
+```
 val_trusted_list = ["True", "False"]
 val_target_list = ["Yes","No"]
 
@@ -11,7 +11,7 @@ val_question_list = ['I would need to double check but maybe ']
 # if you don't want to add new questions then leave the brackets empty
 SEQUENCES = "tt"
 TEMPLATES = "normal"
-___
+```
 This is the PyTorch implementation of the paper [Factual Probing Is [MASK]: Learning vs. Learning to Recall](https://arxiv.org/pdf/2104.05240.pdf).
 
 We propose OptiPrompt, a simple and effective approach for Factual Probing. OptiPrompt optimizes the prompts on the input embedding space directly. It outperforms previous prompting methods on the LAMA benchmark.
