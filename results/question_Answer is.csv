@@ -1,0 +1,12 @@
+fact_x,question,accuracy
+P103,Is [X] [W]'s native language? Answer is: [Y],0.5112589559877175
+P108,Is [W] employed by [X]? Answer is: [Y],0.5
+P19,Was [X] [W]'s place of birth? Answer is: [Y],0.5307203389830508
+P20,Was [X] [W]'s place of death? Answer is: [Y],0.5246589716684155
+P279,Is [X] the class of [W]? Answer is: [Y],0.592323651452282
+P30,Is [X] the continent of [W]? Answer is: [Y],0.565128205128205
+P364,Was [X] the original language of [W]? Answer is: [Y],0.5560747663551402
+P39,Was [W]'s role that of [X]? Answer is: [Y],0.5016816143497758
+P495,Was [W] from [X]? Answer is: [Y],0.5698569856985698
+P740,Was [W] started in [X]? Answer is: [Y],0.5309829059829059
+P937,Was [X] [W]'s work location? Answer is: [Y],0.5115303983228511

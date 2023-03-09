@@ -1,0 +1,195 @@
+,question,acc,target,fact
+0,Does [W] speak [X] as a mother tongue? I am sure my answer is: [Y],0.10030706243602866,yes,P103
+1,Does [W] speak [X] as a native language? I am sure my answer is: [Y],0.25588536335721596,yes,P103
+2,Is [X] [W]'s mother tongue? I am sure my answer is: [Y],0.5,yes,P103
+3,Is [X] [W]'s native language? I am sure my answer is: [Y],0.5,yes,P103
+4,Does [W] work for [X]? I am sure my answer is: [Y],0.42428198433420367,yes,P108
+5,Is [W] employed by [X]? I am sure my answer is: [Y],0.39425587467362927,yes,P108
+6,Did [W] originate from [X]? I am sure my answer is: [Y],0.5,yes,P19
+7,Does [W] originate from [X]? I am sure my answer is: [Y],0.4994703389830508,yes,P19
+8,Is [W] a [X]-born person? I am sure my answer is: [Y],0.482521186440678,yes,P19
+9,Is [W] an [X]-born person? I am sure my answer is: [Y],0.486228813559322,yes,P19
+10,Is [W] native to [X]? I am sure my answer is: [Y],0.4994703389830508,yes,P19
+11,Is [W] originally from [X]? I am sure my answer is: [Y],0.5,yes,P19
+12,Is [X] [W]'s birthplace? I am sure my answer is: [Y],0.5,yes,P19
+13,Is [X] [W]'s place of birth? I am sure my answer is: [Y],0.5,yes,P19
+14,Was [W] a [X]-born person? I am sure my answer is: [Y],0.4957627118644068,yes,P19
+15,Was [W] an [X]-born person? I am sure my answer is: [Y],0.4962923728813559,yes,P19
+16,Was [W] born in [X]? I am sure my answer is: [Y],0.4947033898305085,yes,P19
+17,Was [W] native to [X]? I am sure my answer is: [Y],0.4994703389830508,yes,P19
+18,Was [W] originally from [X]? I am sure my answer is: [Y],0.5,yes,P19
+19,Was [X] [W]'s birthplace? I am sure my answer is: [Y],0.5,yes,P19
+20,Was [X] [W]'s place of birth? I am sure my answer is: [Y],0.4994703389830508,yes,P19
+21,Did [W] die at [X]? I am sure my answer is: [Y],0.19464847848898217,yes,P20
+22,Did [W] die in [X]? I am sure my answer is: [Y],0.26652675760755506,yes,P20
+23,Did [W] expire at [X]? I am sure my answer is: [Y],0.06977964323189927,yes,P20
+24,Did [W] expire in [X]? I am sure my answer is: [Y],0.11909758656873033,yes,P20
+25,Did [W] lose their life at [X]? I am sure my answer is: [Y],0.10283315844700944,yes,P20
+26,Did [W] lose their life in [X]? I am sure my answer is: [Y],0.16002098635886675,yes,P20
+27,Did [W] pass away at [X]? I am sure my answer is: [Y],0.2402938090241343,yes,P20
+28,Did [W] pass away in [X]? I am sure my answer is: [Y],0.2644281217208814,yes,P20
+29,Did [W] succumb at [X]? I am sure my answer is: [Y],0.025183630640083946,yes,P20
+30,Did [W] succumb in [X]? I am sure my answer is: [Y],0.05771248688352571,yes,P20
+31,Did [W]'s life end at [X]? I am sure my answer is: [Y],0.07607555089192025,yes,P20
+32,Did [W]'s life end in [X]? I am sure my answer is: [Y],0.1584470094438615,yes,P20
+33,Is [X] [W]'s death location? I am sure my answer is: [Y],0.5,yes,P20
+34,Is [X] [W]'s death place? I am sure my answer is: [Y],0.5,yes,P20
+35,Is [X] [W]'s place of death? I am sure my answer is: [Y],0.4428121720881427,yes,P20
+36,Was [X] [W]'s death location? I am sure my answer is: [Y],0.5,yes,P20
+37,Was [X] [W]'s death place? I am sure my answer is: [Y],0.5,yes,P20
+38,Was [X] [W]'s place of death? I am sure my answer is: [Y],0.4910807974816369,yes,P20
+39,Does [W] belong to continent [X]? I am sure my answer is: [Y],0.41743589743589743,yes,P30
+40,Does [W] belong to the continent of [X]? I am sure my answer is: [Y],0.44564102564102565,yes,P30
+41,Is [W] a part of continent [X]? I am sure my answer is: [Y],0.49128205128205127,yes,P30
+42,Is [W] a part of the continent [X]? I am sure my answer is: [Y],0.47794871794871796,yes,P30
+43,Is [W] a part of the continent of [X]? I am sure my answer is: [Y],0.49435897435897436,yes,P30
+44,Is [W] located in [X]? I am sure my answer is: [Y],0.49948717948717947,yes,P30
+45,Is [W] located in continent [X]? I am sure my answer is: [Y],0.5,yes,P30
+46,Is [W] located in the [X] continent? I am sure my answer is: [Y],0.5,yes,P30
+47,Is [W] located in the continent [X]? I am sure my answer is: [Y],0.5,yes,P30
+48,Is [W] part of the [X] continent? I am sure my answer is: [Y],0.4835897435897436,yes,P30
+49,Is [X] [W]'s continent? I am sure my answer is: [Y],0.4979487179487179,yes,P30
+50,Is [X] the continent of [W]? I am sure my answer is: [Y],0.49948717948717947,yes,P30
+51,Did [W] have the [X] position? I am sure my answer is: [Y],0.2914798206278027,yes,P39
+52,Did [W] have the [X] role? I am sure my answer is: [Y],0.37948430493273544,yes,P39
+53,Did [W] have the official [X] position? I am sure my answer is: [Y],0.20123318385650224,yes,P39
+54,Did [W] have the official [X] role? I am sure my answer is: [Y],0.2163677130044843,yes,P39
+55,Did [W] have the official position of [X]? I am sure my answer is: [Y],0.21076233183856502,yes,P39
+56,Did [W] have the official role of [X]? I am sure my answer is: [Y],0.40302690582959644,yes,P39
+57,Did [W] have the position of [X]? I am sure my answer is: [Y],0.4288116591928251,yes,P39
+58,Did [W] have the public [X] position? I am sure my answer is: [Y],0.2382286995515695,yes,P39
+59,Did [W] have the public [X] role? I am sure my answer is: [Y],0.2998878923766816,yes,P39
+60,Did [W] have the public position of [X]? I am sure my answer is: [Y],0.3133408071748879,yes,P39
+61,Did [W] have the public role of [X]? I am sure my answer is: [Y],0.40975336322869954,yes,P39
+62,Did [W] have the role of [X]? I am sure my answer is: [Y],0.4495515695067265,yes,P39
+63,Did [W] hold the [X] position? I am sure my answer is: [Y],0.3116591928251121,yes,P39
+64,Did [W] hold the [X] role? I am sure my answer is: [Y],0.23150224215246637,yes,P39
+65,Did [W] hold the official [X] position? I am sure my answer is: [Y],0.22926008968609865,yes,P39
+66,Did [W] hold the official [X] role? I am sure my answer is: [Y],0.1412556053811659,yes,P39
+67,Did [W] hold the official position of [X]? I am sure my answer is: [Y],0.30437219730941706,yes,P39
+68,Did [W] hold the official role of [X]? I am sure my answer is: [Y],0.24663677130044842,yes,P39
+69,Did [W] hold the position of [X]? I am sure my answer is: [Y],0.35257847533632286,yes,P39
+70,Did [W] hold the public [X] position? I am sure my answer is: [Y],0.26289237668161436,yes,P39
+71,Did [W] hold the public [X] role? I am sure my answer is: [Y],0.1844170403587444,yes,P39
+72,Did [W] hold the public position of [X]? I am sure my answer is: [Y],0.23934977578475336,yes,P39
+73,Did [W] hold the public role of [X]? I am sure my answer is: [Y],0.24271300448430494,yes,P39
+74,Did [W] hold the role of [X]? I am sure my answer is: [Y],0.31053811659192826,yes,P39
+75,Did [W] officially hold the [X] position? I am sure my answer is: [Y],0.20123318385650224,yes,P39
+76,Did [W] officially hold the [X] role? I am sure my answer is: [Y],0.16760089686098656,yes,P39
+77,Did [W] officially hold the position of [X]? I am sure my answer is: [Y],0.29260089686098656,yes,P39
+78,Did [W] officially hold the public [X] position? I am sure my answer is: [Y],0.17937219730941703,yes,P39
+79,Did [W] officially hold the public [X] role? I am sure my answer is: [Y],0.1681614349775785,yes,P39
+80,Did [W] officially hold the public position of [X]? I am sure my answer is: [Y],0.24943946188340807,yes,P39
+81,Did [W] officially hold the public role of [X]? I am sure my answer is: [Y],0.23262331838565023,yes,P39
+82,Did [W] officially hold the role of [X]? I am sure my answer is: [Y],0.24327354260089687,yes,P39
+83,Does [W] have the [X] position? I am sure my answer is: [Y],0.0773542600896861,yes,P39
+84,Does [W] have the [X] role? I am sure my answer is: [Y],0.05941704035874439,yes,P39
+85,Does [W] have the official [X] position? I am sure my answer is: [Y],0.04147982062780269,yes,P39
+86,Does [W] have the official [X] role? I am sure my answer is: [Y],0.03531390134529148,yes,P39
+87,Does [W] have the official position of [X]? I am sure my answer is: [Y],0.016816143497757848,yes,P39
+88,Does [W] have the official role of [X]? I am sure my answer is: [Y],0.026345291479820628,yes,P39
+89,Does [W] have the position of [X]? I am sure my answer is: [Y],0.06838565022421525,yes,P39
+90,Does [W] have the public [X] position? I am sure my answer is: [Y],0.026905829596412557,yes,P39
+91,Does [W] have the public [X] role? I am sure my answer is: [Y],0.02298206278026906,yes,P39
+92,Does [W] have the public position of [X]? I am sure my answer is: [Y],0.011210762331838564,yes,P39
+93,Does [W] have the public role of [X]? I am sure my answer is: [Y],0.007847533632286996,yes,P39
+94,Does [W] have the role of [X]? I am sure my answer is: [Y],0.06670403587443946,yes,P39
+95,Does [W] hold the [X] position? I am sure my answer is: [Y],0.04091928251121076,yes,P39
+96,Does [W] hold the [X] role? I am sure my answer is: [Y],0.02298206278026906,yes,P39
+97,Does [W] hold the official [X] position? I am sure my answer is: [Y],0.018497757847533634,yes,P39
+98,Does [W] hold the official [X] role? I am sure my answer is: [Y],0.0033632286995515697,yes,P39
+99,Does [W] hold the official position of [X]? I am sure my answer is: [Y],0.01569506726457399,yes,P39
+100,Does [W] hold the official role of [X]? I am sure my answer is: [Y],0.0033632286995515697,yes,P39
+101,Does [W] hold the position of [X]? I am sure my answer is: [Y],0.04596412556053812,yes,P39
+102,Does [W] hold the public [X] position? I am sure my answer is: [Y],0.017937219730941704,yes,P39
+103,Does [W] hold the public [X] role? I am sure my answer is: [Y],0.008408071748878924,yes,P39
+104,Does [W] hold the public position of [X]? I am sure my answer is: [Y],0.003923766816143498,yes,P39
+105,Does [W] hold the public role of [X]? I am sure my answer is: [Y],0.003923766816143498,yes,P39
+106,Does [W] hold the role of [X]? I am sure my answer is: [Y],0.023542600896860985,yes,P39
+107,Does [W] officially hold the [X] position? I am sure my answer is: [Y],0.12275784753363228,yes,P39
+108,Does [W] officially hold the [X] role? I am sure my answer is: [Y],0.0773542600896861,yes,P39
+109,Does [W] officially hold the position of [X]? I am sure my answer is: [Y],0.14405829596412556,yes,P39
+110,Does [W] officially hold the public [X] position? I am sure my answer is: [Y],0.08015695067264574,yes,P39
+111,Does [W] officially hold the public [X] role? I am sure my answer is: [Y],0.05044843049327354,yes,P39
+112,Does [W] officially hold the public position of [X]? I am sure my answer is: [Y],0.04820627802690583,yes,P39
+113,Does [W] officially hold the public role of [X]? I am sure my answer is: [Y],0.02298206278026906,yes,P39
+114,Does [W] officially hold the role of [X]? I am sure my answer is: [Y],0.05605381165919283,yes,P39
+115,Is [W]'s official position [X]? I am sure my answer is: [Y],0.11939461883408072,yes,P39
+116,Is [W]'s official position that of [X]? I am sure my answer is: [Y],0.18497757847533633,yes,P39
+117,Is [W]'s official role [X]? I am sure my answer is: [Y],0.12163677130044843,yes,P39
+118,Is [W]'s official role that of [X]? I am sure my answer is: [Y],0.19562780269058297,yes,P39
+119,Is [W]'s position [X]? I am sure my answer is: [Y],0.23094170403587444,yes,P39
+120,Is [W]'s position that of [X]? I am sure my answer is: [Y],0.3189461883408072,yes,P39
+121,Is [W]'s public position [X]? I am sure my answer is: [Y],0.2158071748878924,yes,P39
+122,Is [W]'s public position that of [X]? I am sure my answer is: [Y],0.20011210762331838,yes,P39
+123,Is [W]'s public role [X]? I am sure my answer is: [Y],0.09585201793721973,yes,P39
+124,Is [W]'s public role that of [X]? I am sure my answer is: [Y],0.12331838565022421,yes,P39
+125,Is [W]'s role [X]? I am sure my answer is: [Y],0.2623318385650224,yes,P39
+126,Is [W]'s role that of [X]? I am sure my answer is: [Y],0.4019058295964126,yes,P39
+127,Was [W]'s official position [X]? I am sure my answer is: [Y],0.2640134529147982,yes,P39
+128,Was [W]'s official position that of [X]? I am sure my answer is: [Y],0.2769058295964126,yes,P39
+129,Was [W]'s official role [X]? I am sure my answer is: [Y],0.35033632286995514,yes,P39
+130,Was [W]'s official role that of [X]? I am sure my answer is: [Y],0.41760089686098656,yes,P39
+131,Was [W]'s position [X]? I am sure my answer is: [Y],0.3716367713004484,yes,P39
+132,Was [W]'s position that of [X]? I am sure my answer is: [Y],0.4618834080717489,yes,P39
+133,Was [W]'s public position [X]? I am sure my answer is: [Y],0.4007847533632287,yes,P39
+134,Was [W]'s public position that of [X]? I am sure my answer is: [Y],0.4013452914798206,yes,P39
+135,Was [W]'s public role [X]? I am sure my answer is: [Y],0.4047085201793722,yes,P39
+136,Was [W]'s public role that of [X]? I am sure my answer is: [Y],0.4254484304932735,yes,P39
+137,Was [W]'s role [X]? I am sure my answer is: [Y],0.44786995515695066,yes,P39
+138,Was [W]'s role that of [X]? I am sure my answer is: [Y],0.4781390134529148,yes,P39
+139,Does [W] belong to the [X] category? I am sure my answer is: [Y],0.4429460580912863,yes,P279
+140,Does [W] have class [X]? I am sure my answer is: [Y],0.3257261410788382,yes,P279
+141,Is [W] a [X]? I am sure my answer is: [Y],0.4341286307053942,yes,P279
+142,Is [W] a kind of [X]? I am sure my answer is: [Y],0.47769709543568467,yes,P279
+143,Is [W] a subclass of [X]? I am sure my answer is: [Y],0.4704356846473029,yes,P279
+144,Is [W] a type of [X]? I am sure my answer is: [Y],0.4927385892116183,yes,P279
+145,Is [W] of class [X]? I am sure my answer is: [Y],0.47925311203319504,yes,P279
+146,Is [X] the class of [W]? I am sure my answer is: [Y],0.48184647302904565,yes,P279
+147,Is [X] the language of [W]? I am sure my answer is: [Y],0.4947429906542056,yes,P364
+148,Is [X] the original language of [W]? I am sure my answer is: [Y],0.48598130841121495,yes,P364
+149,Was [W] originally performed in [X]? I am sure my answer is: [Y],0.5,yes,P364
+150,Was [W] originally performed in language [X]? I am sure my answer is: [Y],0.4994158878504673,yes,P364
+151,Was [W] originally performed in the [X] language? I am sure my answer is: [Y],0.5,yes,P364
+152,Was [W] originally performed in the following language: [X]? I am sure my answer is: [Y],0.5,yes,P364
+153,Was [W] originally played in [X]? I am sure my answer is: [Y],0.5,yes,P364
+154,Was [W] originally played in language [X]? I am sure my answer is: [Y],0.49883177570093457,yes,P364
+155,Was [W] originally played in the [X] language? I am sure my answer is: [Y],0.5,yes,P364
+156,Was [W] originally played in the following language: [X]? I am sure my answer is: [Y],0.5,yes,P364
+157,Was [X] the language of [W]? I am sure my answer is: [Y],0.4982476635514019,yes,P364
+158,Was [X] the original language of [W]? I am sure my answer is: [Y],0.4994158878504673,yes,P364
+159,Did [W] come from [X]? I am sure my answer is: [Y],0.3756875687568757,yes,P495
+160,Did [W] form in [X]? I am sure my answer is: [Y],0.49412393162393164,yes,P740
+161,Did [W] originate in [X]? I am sure my answer is: [Y],0.49946581196581197,yes,P740
+162,Does [W] come from [X]? I am sure my answer is: [Y],0.3179317931793179,yes,P495
+163,Does [W] originate in [X]? I am sure my answer is: [Y],0.48184818481848185,yes,P495
+164,Is [W] formulated in [X]? I am sure my answer is: [Y],0.4394939493949395,yes,P495
+165,Is [W] from [X]? I am sure my answer is: [Y],0.4713971397139714,yes,P495
+166,Is [X] [W]'s original country? I am sure my answer is: [Y],0.4955995599559956,yes,P495
+167,Is [X] the original country of [W]? I am sure my answer is: [Y],0.5,yes,P495
+168,Was [W] created in [X]? I am sure my answer is: [Y],0.49732905982905984,yes,P740
+169,Was [W] developed in [X]? I am sure my answer is: [Y],0.48734873487348734,yes,P495
+170,Was [W] first created in [X]? I am sure my answer is: [Y],0.49834983498349833,yes,P495
+171,Was [W] first made in [X]? I am sure my answer is: [Y],0.4988998899889989,yes,P495
+172,Was [W] first produced in [X]? I am sure my answer is: [Y],0.4988998899889989,yes,P495
+173,Was [W] formed in [X]? I am sure my answer is: [Y],0.49572649572649574,yes,P740
+174,Was [W] formulated in [X]? I am sure my answer is: [Y],0.4735973597359736,yes,P495
+175,Was [W] from [X]? I am sure my answer is: [Y],0.47414741474147415,yes,P495
+176,Did [W] start in [X]? I am sure my answer is: [Y],0.49145299145299143,yes,P740
+177,Was [W] founded in [X]? I am sure my answer is: [Y],0.49893162393162394,yes,P740
+178,Was [W] started in [X]? I am sure my answer is: [Y],0.4962606837606838,yes,P740
+179,Did [W] find employment in [X]? I am sure my answer is: [Y],0.15513626834381553,yes,P937
+180,Did [W] take up work in [X]? I am sure my answer is: [Y],0.46855345911949686,yes,P937
+181,Did [W] use to work in [X]? I am sure my answer is: [Y],0.49947589098532497,yes,P937
+182,Did [W] work in [X]? I am sure my answer is: [Y],0.4921383647798742,yes,P937
+183,Does [W] work in [X]? I am sure my answer is: [Y],0.34538784067085954,yes,P937
+184,Is [W] employed in [X]? I am sure my answer is: [Y],0.24423480083857443,yes,P937
+185,Is [X] [W]'s employment location? I am sure my answer is: [Y],0.5,yes,P937
+186,Is [X] [W]'s location of employment? I am sure my answer is: [Y],0.48951781970649894,yes,P937
+187,Is [X] [W]'s work location? I am sure my answer is: [Y],0.5,yes,P937
+188,Is [X] where [W] is employed? I am sure my answer is: [Y],0.5,yes,P937
+189,Is [X] where [W] was employed? I am sure my answer is: [Y],0.5,yes,P937
+190,Was [W] employed in [X]? I am sure my answer is: [Y],0.4806079664570231,yes,P937
+191,Was [X] [W]'s employment location? I am sure my answer is: [Y],0.5,yes,P937
+192,Was [X] [W]'s location of employment? I am sure my answer is: [Y],0.5,yes,P937
+193,Was [X] [W]'s work location? I am sure my answer is: [Y],0.5,yes,P937

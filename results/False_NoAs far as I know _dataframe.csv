@@ -1,0 +1,195 @@
+,question,acc,target,fact
+0,Does [W] speak [X] as a mother tongue? As far as I know [Y],0.3091095189355169,No,P103
+1,Does [W] speak [X] as a native language? As far as I know [Y],0.4165813715455476,No,P103
+2,Is [X] [W]'s mother tongue? As far as I know [Y],0.3741044012282497,No,P103
+3,Is [X] [W]'s native language? As far as I know [Y],0.44626407369498466,No,P103
+4,Does [W] work for [X]? As far as I know [Y],0.48825065274151436,No,P108
+5,Is [W] employed by [X]? As far as I know [Y],0.49477806788511747,No,P108
+6,Did [W] originate from [X]? As far as I know [Y],0.4962923728813559,No,P19
+7,Does [W] originate from [X]? As far as I know [Y],0.4809322033898305,No,P19
+8,Is [W] a [X]-born person? As far as I know [Y],0.4528601694915254,No,P19
+9,Is [W] an [X]-born person? As far as I know [Y],0.4708686440677966,No,P19
+10,Is [W] native to [X]? As far as I know [Y],0.4173728813559322,No,P19
+11,Is [W] originally from [X]? As far as I know [Y],0.486228813559322,No,P19
+12,Is [X] [W]'s birthplace? As far as I know [Y],0.4793432203389831,No,P19
+13,Is [X] [W]'s place of birth? As far as I know [Y],0.4745762711864407,No,P19
+14,Was [W] a [X]-born person? As far as I know [Y],0.4406779661016949,No,P19
+15,Was [W] an [X]-born person? As far as I know [Y],0.4608050847457627,No,P19
+16,Was [W] born in [X]? As far as I know [Y],0.454978813559322,No,P19
+17,Was [W] native to [X]? As far as I know [Y],0.4205508474576271,No,P19
+18,Was [W] originally from [X]? As far as I know [Y],0.4904661016949153,No,P19
+19,Was [X] [W]'s birthplace? As far as I know [Y],0.4804025423728814,No,P19
+20,Was [X] [W]'s place of birth? As far as I know [Y],0.4772245762711864,No,P19
+21,Did [W] die at [X]? As far as I know [Y],0.487408184679958,No,P20
+22,Did [W] die in [X]? As far as I know [Y],0.48530954879328436,No,P20
+23,Did [W] expire at [X]? As far as I know [Y],0.49422875131164745,No,P20
+24,Did [W] expire in [X]? As far as I know [Y],0.49422875131164745,No,P20
+25,Did [W] lose their life at [X]? As far as I know [Y],0.49737670514165794,No,P20
+26,Did [W] lose their life in [X]? As far as I know [Y],0.49737670514165794,No,P20
+27,Did [W] pass away at [X]? As far as I know [Y],0.49580272822665267,No,P20
+28,Did [W] pass away in [X]? As far as I know [Y],0.4968520461699895,No,P20
+29,Did [W] succumb at [X]? As far as I know [Y],0.49055613850996854,No,P20
+30,Did [W] succumb in [X]? As far as I know [Y],0.49527806925498424,No,P20
+31,Did [W]'s life end at [X]? As far as I know [Y],0.49737670514165794,No,P20
+32,Did [W]'s life end in [X]? As far as I know [Y],0.49737670514165794,No,P20
+33,Is [X] [W]'s death location? As far as I know [Y],0.5,No,P20
+34,Is [X] [W]'s death place? As far as I know [Y],0.4994753410283316,No,P20
+35,Is [X] [W]'s place of death? As far as I know [Y],0.49895068205666315,No,P20
+36,Was [X] [W]'s death location? As far as I know [Y],0.5,No,P20
+37,Was [X] [W]'s death place? As far as I know [Y],0.4968520461699895,No,P20
+38,Was [X] [W]'s place of death? As far as I know [Y],0.49737670514165794,No,P20
+39,Does [W] belong to continent [X]? As far as I know [Y],0.4969230769230769,No,P30
+40,Does [W] belong to the continent of [X]? As far as I know [Y],0.4866666666666667,No,P30
+41,Is [W] a part of continent [X]? As far as I know [Y],0.49948717948717947,No,P30
+42,Is [W] a part of the continent [X]? As far as I know [Y],0.498974358974359,No,P30
+43,Is [W] a part of the continent of [X]? As far as I know [Y],0.4958974358974359,No,P30
+44,Is [W] located in [X]? As far as I know [Y],0.4979487179487179,No,P30
+45,Is [W] located in continent [X]? As far as I know [Y],0.49846153846153846,No,P30
+46,Is [W] located in the [X] continent? As far as I know [Y],0.49846153846153846,No,P30
+47,Is [W] located in the continent [X]? As far as I know [Y],0.498974358974359,No,P30
+48,Is [W] part of the [X] continent? As far as I know [Y],0.49743589743589745,No,P30
+49,Is [X] [W]'s continent? As far as I know [Y],0.49948717948717947,No,P30
+50,Is [X] the continent of [W]? As far as I know [Y],0.49948717948717947,No,P30
+51,Did [W] have the [X] position? As far as I know [Y],0.49495515695067266,No,P39
+52,Did [W] have the [X] role? As far as I know [Y],0.4966367713004484,No,P39
+53,Did [W] have the official [X] position? As far as I know [Y],0.4994394618834081,No,P39
+54,Did [W] have the official [X] role? As far as I know [Y],0.492152466367713,No,P39
+55,Did [W] have the official position of [X]? As far as I know [Y],0.4904708520179372,No,P39
+56,Did [W] have the official role of [X]? As far as I know [Y],0.48654708520179374,No,P39
+57,Did [W] have the position of [X]? As far as I know [Y],0.49271300448430494,No,P39
+58,Did [W] have the public [X] position? As far as I know [Y],0.4971973094170404,No,P39
+59,Did [W] have the public [X] role? As far as I know [Y],0.4899103139013453,No,P39
+60,Did [W] have the public position of [X]? As far as I know [Y],0.4904708520179372,No,P39
+61,Did [W] have the public role of [X]? As far as I know [Y],0.4792600896860987,No,P39
+62,Did [W] have the role of [X]? As far as I know [Y],0.48094170403587444,No,P39
+63,Did [W] hold the [X] position? As far as I know [Y],0.49495515695067266,No,P39
+64,Did [W] hold the [X] role? As far as I know [Y],0.4904708520179372,No,P39
+65,Did [W] hold the official [X] position? As far as I know [Y],0.4977578475336323,No,P39
+66,Did [W] hold the official [X] role? As far as I know [Y],0.4938340807174888,No,P39
+67,Did [W] hold the official position of [X]? As far as I know [Y],0.48710762331838564,No,P39
+68,Did [W] hold the official role of [X]? As far as I know [Y],0.48374439461883406,No,P39
+69,Did [W] hold the position of [X]? As far as I know [Y],0.484304932735426,No,P39
+70,Did [W] hold the public [X] position? As far as I know [Y],0.49495515695067266,No,P39
+71,Did [W] hold the public [X] role? As far as I know [Y],0.48934977578475336,No,P39
+72,Did [W] hold the public position of [X]? As far as I know [Y],0.4904708520179372,No,P39
+73,Did [W] hold the public role of [X]? As far as I know [Y],0.48038116591928254,No,P39
+74,Did [W] hold the role of [X]? As far as I know [Y],0.476457399103139,No,P39
+75,Did [W] officially hold the [X] position? As far as I know [Y],0.4938340807174888,No,P39
+76,Did [W] officially hold the [X] role? As far as I know [Y],0.49495515695067266,No,P39
+77,Did [W] officially hold the position of [X]? As far as I know [Y],0.4915919282511211,No,P39
+78,Did [W] officially hold the public [X] position? As far as I know [Y],0.4943946188340807,No,P39
+79,Did [W] officially hold the public [X] role? As far as I know [Y],0.4943946188340807,No,P39
+80,Did [W] officially hold the public position of [X]? As far as I know [Y],0.4910313901345291,No,P39
+81,Did [W] officially hold the public role of [X]? As far as I know [Y],0.4882286995515695,No,P39
+82,Did [W] officially hold the role of [X]? As far as I know [Y],0.484304932735426,No,P39
+83,Does [W] have the [X] position? As far as I know [Y],0.49831838565022424,No,P39
+84,Does [W] have the [X] role? As far as I know [Y],0.49887892376681614,No,P39
+85,Does [W] have the official [X] position? As far as I know [Y],0.49551569506726456,No,P39
+86,Does [W] have the official [X] role? As far as I know [Y],0.4943946188340807,No,P39
+87,Does [W] have the official position of [X]? As far as I know [Y],0.48654708520179374,No,P39
+88,Does [W] have the official role of [X]? As far as I know [Y],0.4910313901345291,No,P39
+89,Does [W] have the position of [X]? As far as I know [Y],0.49551569506726456,No,P39
+90,Does [W] have the public [X] position? As far as I know [Y],0.4994394618834081,No,P39
+91,Does [W] have the public [X] role? As far as I know [Y],0.4966367713004484,No,P39
+92,Does [W] have the public position of [X]? As far as I know [Y],0.49271300448430494,No,P39
+93,Does [W] have the public role of [X]? As far as I know [Y],0.4904708520179372,No,P39
+94,Does [W] have the role of [X]? As far as I know [Y],0.4904708520179372,No,P39
+95,Does [W] hold the [X] position? As far as I know [Y],0.4977578475336323,No,P39
+96,Does [W] hold the [X] role? As far as I know [Y],0.4977578475336323,No,P39
+97,Does [W] hold the official [X] position? As far as I know [Y],0.4977578475336323,No,P39
+98,Does [W] hold the official [X] role? As far as I know [Y],0.4977578475336323,No,P39
+99,Does [W] hold the official position of [X]? As far as I know [Y],0.49551569506726456,No,P39
+100,Does [W] hold the official role of [X]? As far as I know [Y],0.49495515695067266,No,P39
+101,Does [W] hold the position of [X]? As far as I know [Y],0.49271300448430494,No,P39
+102,Does [W] hold the public [X] position? As far as I know [Y],0.4971973094170404,No,P39
+103,Does [W] hold the public [X] role? As far as I know [Y],0.49495515695067266,No,P39
+104,Does [W] hold the public position of [X]? As far as I know [Y],0.4910313901345291,No,P39
+105,Does [W] hold the public role of [X]? As far as I know [Y],0.49271300448430494,No,P39
+106,Does [W] hold the role of [X]? As far as I know [Y],0.4854260089686099,No,P39
+107,Does [W] officially hold the [X] position? As far as I know [Y],0.4971973094170404,No,P39
+108,Does [W] officially hold the [X] role? As far as I know [Y],0.49551569506726456,No,P39
+109,Does [W] officially hold the position of [X]? As far as I know [Y],0.48934977578475336,No,P39
+110,Does [W] officially hold the public [X] position? As far as I know [Y],0.49495515695067266,No,P39
+111,Does [W] officially hold the public [X] role? As far as I know [Y],0.4971973094170404,No,P39
+112,Does [W] officially hold the public position of [X]? As far as I know [Y],0.48934977578475336,No,P39
+113,Does [W] officially hold the public role of [X]? As far as I know [Y],0.48654708520179374,No,P39
+114,Does [W] officially hold the role of [X]? As far as I know [Y],0.4899103139013453,No,P39
+115,Is [W]'s official position [X]? As far as I know [Y],0.48654708520179374,No,P39
+116,Is [W]'s official position that of [X]? As far as I know [Y],0.4848654708520179,No,P39
+117,Is [W]'s official role [X]? As far as I know [Y],0.48318385650224216,No,P39
+118,Is [W]'s official role that of [X]? As far as I know [Y],0.4910313901345291,No,P39
+119,Is [W]'s position [X]? As far as I know [Y],0.48934977578475336,No,P39
+120,Is [W]'s position that of [X]? As far as I know [Y],0.49495515695067266,No,P39
+121,Is [W]'s public position [X]? As far as I know [Y],0.484304932735426,No,P39
+122,Is [W]'s public position that of [X]? As far as I know [Y],0.4915919282511211,No,P39
+123,Is [W]'s public role [X]? As far as I know [Y],0.4859865470852018,No,P39
+124,Is [W]'s public role that of [X]? As far as I know [Y],0.4910313901345291,No,P39
+125,Is [W]'s role [X]? As far as I know [Y],0.4859865470852018,No,P39
+126,Is [W]'s role that of [X]? As far as I know [Y],0.4910313901345291,No,P39
+127,Was [W]'s official position [X]? As far as I know [Y],0.4848654708520179,No,P39
+128,Was [W]'s official position that of [X]? As far as I know [Y],0.49327354260089684,No,P39
+129,Was [W]'s official role [X]? As far as I know [Y],0.4786995515695067,No,P39
+130,Was [W]'s official role that of [X]? As far as I know [Y],0.4904708520179372,No,P39
+131,Was [W]'s position [X]? As far as I know [Y],0.4859865470852018,No,P39
+132,Was [W]'s position that of [X]? As far as I know [Y],0.49271300448430494,No,P39
+133,Was [W]'s public position [X]? As far as I know [Y],0.4820627802690583,No,P39
+134,Was [W]'s public position that of [X]? As far as I know [Y],0.48934977578475336,No,P39
+135,Was [W]'s public role [X]? As far as I know [Y],0.4792600896860987,No,P39
+136,Was [W]'s public role that of [X]? As far as I know [Y],0.49495515695067266,No,P39
+137,Was [W]'s role [X]? As far as I know [Y],0.4786995515695067,No,P39
+138,Was [W]'s role that of [X]? As far as I know [Y],0.4915919282511211,No,P39
+139,Does [W] belong to the [X] category? As far as I know [Y],0.4948132780082988,No,P279
+140,Does [W] have class [X]? As far as I know [Y],0.49896265560165975,No,P279
+141,Is [W] a [X]? As far as I know [Y],0.49221991701244816,No,P279
+142,Is [W] a kind of [X]? As far as I know [Y],0.4948132780082988,No,P279
+143,Is [W] a subclass of [X]? As far as I know [Y],0.4953319502074689,No,P279
+144,Is [W] a type of [X]? As far as I know [Y],0.49429460580912865,No,P279
+145,Is [W] of class [X]? As far as I know [Y],0.4979253112033195,No,P279
+146,Is [X] the class of [W]? As far as I know [Y],0.4979253112033195,No,P279
+147,Is [X] the language of [W]? As far as I know [Y],0.3767523364485981,No,P364
+148,Is [X] the original language of [W]? As far as I know [Y],0.3942757009345794,No,P364
+149,Was [W] originally performed in [X]? As far as I know [Y],0.40595794392523366,No,P364
+150,Was [W] originally performed in language [X]? As far as I know [Y],0.4304906542056075,No,P364
+151,Was [W] originally performed in the [X] language? As far as I know [Y],0.4100467289719626,No,P364
+152,Was [W] originally performed in the following language: [X]? As far as I know [Y],0.4094626168224299,No,P364
+153,Was [W] originally played in [X]? As far as I know [Y],0.4526869158878505,No,P364
+154,Was [W] originally played in language [X]? As far as I know [Y],0.45093457943925236,No,P364
+155,Was [W] originally played in the [X] language? As far as I know [Y],0.4532710280373832,No,P364
+156,Was [W] originally played in the following language: [X]? As far as I know [Y],0.43457943925233644,No,P364
+157,Was [X] the language of [W]? As far as I know [Y],0.41880841121495327,No,P364
+158,Was [X] the original language of [W]? As far as I know [Y],0.42815420560747663,No,P364
+159,Did [W] come from [X]? As far as I know [Y],0.49174917491749176,No,P495
+160,Did [W] form in [X]? As far as I know [Y],0.4791666666666667,No,P740
+161,Did [W] originate in [X]? As far as I know [Y],0.4807692307692308,No,P740
+162,Does [W] come from [X]? As far as I know [Y],0.4867986798679868,No,P495
+163,Does [W] originate in [X]? As far as I know [Y],0.46864686468646866,No,P495
+164,Is [W] formulated in [X]? As far as I know [Y],0.4884488448844885,No,P495
+165,Is [W] from [X]? As far as I know [Y],0.47744774477447743,No,P495
+166,Is [X] [W]'s original country? As far as I know [Y],0.49064906490649063,No,P495
+167,Is [X] the original country of [W]? As far as I know [Y],0.48514851485148514,No,P495
+168,Was [W] created in [X]? As far as I know [Y],0.484508547008547,No,P740
+169,Was [W] developed in [X]? As far as I know [Y],0.4922992299229923,No,P495
+170,Was [W] first created in [X]? As far as I know [Y],0.4966996699669967,No,P495
+171,Was [W] first made in [X]? As far as I know [Y],0.4988998899889989,No,P495
+172,Was [W] first produced in [X]? As far as I know [Y],0.4955995599559956,No,P495
+173,Was [W] formed in [X]? As far as I know [Y],0.48023504273504275,No,P740
+174,Was [W] formulated in [X]? As far as I know [Y],0.4922992299229923,No,P495
+175,Was [W] from [X]? As far as I know [Y],0.48184818481848185,No,P495
+176,Did [W] start in [X]? As far as I know [Y],0.4636752136752137,No,P740
+177,Was [W] founded in [X]? As far as I know [Y],0.46314102564102566,No,P740
+178,Was [W] started in [X]? As far as I know [Y],0.48664529914529914,No,P740
+179,Did [W] find employment in [X]? As far as I know [Y],0.49842767295597484,No,P937
+180,Did [W] take up work in [X]? As far as I know [Y],0.49842767295597484,No,P937
+181,Did [W] use to work in [X]? As far as I know [Y],0.4942348008385744,No,P937
+182,Did [W] work in [X]? As far as I know [Y],0.4947589098532495,No,P937
+183,Does [W] work in [X]? As far as I know [Y],0.4947589098532495,No,P937
+184,Is [W] employed in [X]? As far as I know [Y],0.4910901467505241,No,P937
+185,Is [X] [W]'s employment location? As far as I know [Y],0.4968553459119497,No,P937
+186,Is [X] [W]'s location of employment? As far as I know [Y],0.4921383647798742,No,P937
+187,Is [X] [W]'s work location? As far as I know [Y],0.4989517819706499,No,P937
+188,Is [X] where [W] is employed? As far as I know [Y],0.4968553459119497,No,P937
+189,Is [X] where [W] was employed? As far as I know [Y],0.49580712788259956,No,P937
+190,Was [W] employed in [X]? As far as I know [Y],0.4937106918238994,No,P937
+191,Was [X] [W]'s employment location? As far as I know [Y],0.4968553459119497,No,P937
+192,Was [X] [W]'s location of employment? As far as I know [Y],0.4947589098532495,No,P937
+193,Was [X] [W]'s work location? As far as I know [Y],0.49947589098532497,No,P937

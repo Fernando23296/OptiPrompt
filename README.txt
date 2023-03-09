@@ -1,0 +1,2 @@
+# FUNCIONA PARA UNA PREGUNTA COMUN 
+CORRER python qa_admin_2.py 

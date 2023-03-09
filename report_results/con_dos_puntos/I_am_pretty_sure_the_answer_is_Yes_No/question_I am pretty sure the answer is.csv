@@ -1,0 +1,12 @@
+fact_x,question,accuracy
+P103,Is [X] [W]'s native language? I am pretty sure the answer is: [Y],0.4595701125895598
+P108,Is [W] employed by [X]? I am pretty sure the answer is: [Y],0.597911227154047
+P19,Was [X] [W]'s place of birth? I am pretty sure the answer is: [Y],0.5005296610169492
+P20,Was [X] [W]'s place of death? I am pretty sure the answer is: [Y],0.5041972717733473
+P279,Is [X] the class of [W]? I am pretty sure the answer is: [Y],0.517116182572614
+P30,Is [X] the continent of [W]? I am pretty sure the answer is: [Y],0.498974358974359
+P364,Was [X] the original language of [W]? I am pretty sure the answer is: [Y],0.4713785046728971
+P39,Was [W]'s role that of [X]? I am pretty sure the answer is: [Y],0.5022421524663677
+P495,Was [W] from [X]? I am pretty sure the answer is: [Y],0.5077007700770075
+P740,Was [W] started in [X]? I am pretty sure the answer is: [Y],0.5202991452991452
+P937,Was [X] [W]'s work location? I am pretty sure the answer is: [Y],0.5057651991614255

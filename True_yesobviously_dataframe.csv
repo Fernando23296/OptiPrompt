@@ -1,0 +1,195 @@
+,question,acc,target,fact
+0,Does [W] speak [X] as a mother tongue? obviously [Y],0.0,yes,P103
+1,Does [W] speak [X] as a native language? obviously [Y],0.0,yes,P103
+2,Is [X] [W]'s mother tongue? obviously [Y],0.0,yes,P103
+3,Is [X] [W]'s native language? obviously [Y],0.0,yes,P103
+4,Does [W] work for [X]? obviously [Y],0.0,yes,P108
+5,Is [W] employed by [X]? obviously [Y],0.0,yes,P108
+6,Did [W] originate from [X]? obviously [Y],0.034957627118644065,yes,P19
+7,Does [W] originate from [X]? obviously [Y],0.03177966101694915,yes,P19
+8,Is [W] a [X]-born person? obviously [Y],0.0,yes,P19
+9,Is [W] an [X]-born person? obviously [Y],0.0,yes,P19
+10,Is [W] native to [X]? obviously [Y],0.0,yes,P19
+11,Is [W] originally from [X]? obviously [Y],0.0,yes,P19
+12,Is [X] [W]'s birthplace? obviously [Y],0.0,yes,P19
+13,Is [X] [W]'s place of birth? obviously [Y],0.0,yes,P19
+14,Was [W] a [X]-born person? obviously [Y],0.0,yes,P19
+15,Was [W] an [X]-born person? obviously [Y],0.0,yes,P19
+16,Was [W] born in [X]? obviously [Y],0.0005296610169491525,yes,P19
+17,Was [W] native to [X]? obviously [Y],0.0,yes,P19
+18,Was [W] originally from [X]? obviously [Y],0.0,yes,P19
+19,Was [X] [W]'s birthplace? obviously [Y],0.0,yes,P19
+20,Was [X] [W]'s place of birth? obviously [Y],0.0,yes,P19
+21,Did [W] die at [X]? obviously [Y],0.0,yes,P20
+22,Did [W] die in [X]? obviously [Y],0.0,yes,P20
+23,Did [W] expire at [X]? obviously [Y],0.0,yes,P20
+24,Did [W] expire in [X]? obviously [Y],0.0,yes,P20
+25,Did [W] lose their life at [X]? obviously [Y],0.0,yes,P20
+26,Did [W] lose their life in [X]? obviously [Y],0.0,yes,P20
+27,Did [W] pass away at [X]? obviously [Y],0.0,yes,P20
+28,Did [W] pass away in [X]? obviously [Y],0.0,yes,P20
+29,Did [W] succumb at [X]? obviously [Y],0.0,yes,P20
+30,Did [W] succumb in [X]? obviously [Y],0.0,yes,P20
+31,Did [W]'s life end at [X]? obviously [Y],0.0,yes,P20
+32,Did [W]'s life end in [X]? obviously [Y],0.0,yes,P20
+33,Is [X] [W]'s death location? obviously [Y],0.0,yes,P20
+34,Is [X] [W]'s death place? obviously [Y],0.0,yes,P20
+35,Is [X] [W]'s place of death? obviously [Y],0.0,yes,P20
+36,Was [X] [W]'s death location? obviously [Y],0.0,yes,P20
+37,Was [X] [W]'s death place? obviously [Y],0.0,yes,P20
+38,Was [X] [W]'s place of death? obviously [Y],0.0,yes,P20
+39,Does [W] belong to continent [X]? obviously [Y],0.0005128205128205128,yes,P30
+40,Does [W] belong to the continent of [X]? obviously [Y],0.002564102564102564,yes,P30
+41,Is [W] a part of continent [X]? obviously [Y],0.0,yes,P30
+42,Is [W] a part of the continent [X]? obviously [Y],0.0,yes,P30
+43,Is [W] a part of the continent of [X]? obviously [Y],0.0,yes,P30
+44,Is [W] located in [X]? obviously [Y],0.0,yes,P30
+45,Is [W] located in continent [X]? obviously [Y],0.0,yes,P30
+46,Is [W] located in the [X] continent? obviously [Y],0.0,yes,P30
+47,Is [W] located in the continent [X]? obviously [Y],0.0,yes,P30
+48,Is [W] part of the [X] continent? obviously [Y],0.0,yes,P30
+49,Is [X] [W]'s continent? obviously [Y],0.0,yes,P30
+50,Is [X] the continent of [W]? obviously [Y],0.0,yes,P30
+51,Did [W] have the [X] position? obviously [Y],0.0,yes,P39
+52,Did [W] have the [X] role? obviously [Y],0.0,yes,P39
+53,Did [W] have the official [X] position? obviously [Y],0.0,yes,P39
+54,Did [W] have the official [X] role? obviously [Y],0.0,yes,P39
+55,Did [W] have the official position of [X]? obviously [Y],0.0,yes,P39
+56,Did [W] have the official role of [X]? obviously [Y],0.0,yes,P39
+57,Did [W] have the position of [X]? obviously [Y],0.0,yes,P39
+58,Did [W] have the public [X] position? obviously [Y],0.0,yes,P39
+59,Did [W] have the public [X] role? obviously [Y],0.0,yes,P39
+60,Did [W] have the public position of [X]? obviously [Y],0.0,yes,P39
+61,Did [W] have the public role of [X]? obviously [Y],0.0,yes,P39
+62,Did [W] have the role of [X]? obviously [Y],0.0,yes,P39
+63,Did [W] hold the [X] position? obviously [Y],0.0,yes,P39
+64,Did [W] hold the [X] role? obviously [Y],0.0,yes,P39
+65,Did [W] hold the official [X] position? obviously [Y],0.0,yes,P39
+66,Did [W] hold the official [X] role? obviously [Y],0.0,yes,P39
+67,Did [W] hold the official position of [X]? obviously [Y],0.0,yes,P39
+68,Did [W] hold the official role of [X]? obviously [Y],0.0,yes,P39
+69,Did [W] hold the position of [X]? obviously [Y],0.0,yes,P39
+70,Did [W] hold the public [X] position? obviously [Y],0.0,yes,P39
+71,Did [W] hold the public [X] role? obviously [Y],0.0,yes,P39
+72,Did [W] hold the public position of [X]? obviously [Y],0.0,yes,P39
+73,Did [W] hold the public role of [X]? obviously [Y],0.0,yes,P39
+74,Did [W] hold the role of [X]? obviously [Y],0.0,yes,P39
+75,Did [W] officially hold the [X] position? obviously [Y],0.0,yes,P39
+76,Did [W] officially hold the [X] role? obviously [Y],0.0,yes,P39
+77,Did [W] officially hold the position of [X]? obviously [Y],0.0,yes,P39
+78,Did [W] officially hold the public [X] position? obviously [Y],0.0,yes,P39
+79,Did [W] officially hold the public [X] role? obviously [Y],0.0,yes,P39
+80,Did [W] officially hold the public position of [X]? obviously [Y],0.0,yes,P39
+81,Did [W] officially hold the public role of [X]? obviously [Y],0.0,yes,P39
+82,Did [W] officially hold the role of [X]? obviously [Y],0.0,yes,P39
+83,Does [W] have the [X] position? obviously [Y],0.0,yes,P39
+84,Does [W] have the [X] role? obviously [Y],0.0,yes,P39
+85,Does [W] have the official [X] position? obviously [Y],0.0,yes,P39
+86,Does [W] have the official [X] role? obviously [Y],0.0,yes,P39
+87,Does [W] have the official position of [X]? obviously [Y],0.0,yes,P39
+88,Does [W] have the official role of [X]? obviously [Y],0.0,yes,P39
+89,Does [W] have the position of [X]? obviously [Y],0.0,yes,P39
+90,Does [W] have the public [X] position? obviously [Y],0.0,yes,P39
+91,Does [W] have the public [X] role? obviously [Y],0.0,yes,P39
+92,Does [W] have the public position of [X]? obviously [Y],0.0,yes,P39
+93,Does [W] have the public role of [X]? obviously [Y],0.0,yes,P39
+94,Does [W] have the role of [X]? obviously [Y],0.0,yes,P39
+95,Does [W] hold the [X] position? obviously [Y],0.0,yes,P39
+96,Does [W] hold the [X] role? obviously [Y],0.0,yes,P39
+97,Does [W] hold the official [X] position? obviously [Y],0.0,yes,P39
+98,Does [W] hold the official [X] role? obviously [Y],0.0,yes,P39
+99,Does [W] hold the official position of [X]? obviously [Y],0.0,yes,P39
+100,Does [W] hold the official role of [X]? obviously [Y],0.0,yes,P39
+101,Does [W] hold the position of [X]? obviously [Y],0.0,yes,P39
+102,Does [W] hold the public [X] position? obviously [Y],0.0,yes,P39
+103,Does [W] hold the public [X] role? obviously [Y],0.0,yes,P39
+104,Does [W] hold the public position of [X]? obviously [Y],0.0,yes,P39
+105,Does [W] hold the public role of [X]? obviously [Y],0.0,yes,P39
+106,Does [W] hold the role of [X]? obviously [Y],0.0,yes,P39
+107,Does [W] officially hold the [X] position? obviously [Y],0.0,yes,P39
+108,Does [W] officially hold the [X] role? obviously [Y],0.0,yes,P39
+109,Does [W] officially hold the position of [X]? obviously [Y],0.0,yes,P39
+110,Does [W] officially hold the public [X] position? obviously [Y],0.0,yes,P39
+111,Does [W] officially hold the public [X] role? obviously [Y],0.0,yes,P39
+112,Does [W] officially hold the public position of [X]? obviously [Y],0.0,yes,P39
+113,Does [W] officially hold the public role of [X]? obviously [Y],0.0,yes,P39
+114,Does [W] officially hold the role of [X]? obviously [Y],0.0,yes,P39
+115,Is [W]'s official position [X]? obviously [Y],0.0,yes,P39
+116,Is [W]'s official position that of [X]? obviously [Y],0.0,yes,P39
+117,Is [W]'s official role [X]? obviously [Y],0.0,yes,P39
+118,Is [W]'s official role that of [X]? obviously [Y],0.0,yes,P39
+119,Is [W]'s position [X]? obviously [Y],0.0,yes,P39
+120,Is [W]'s position that of [X]? obviously [Y],0.0,yes,P39
+121,Is [W]'s public position [X]? obviously [Y],0.0,yes,P39
+122,Is [W]'s public position that of [X]? obviously [Y],0.0,yes,P39
+123,Is [W]'s public role [X]? obviously [Y],0.0,yes,P39
+124,Is [W]'s public role that of [X]? obviously [Y],0.0,yes,P39
+125,Is [W]'s role [X]? obviously [Y],0.0,yes,P39
+126,Is [W]'s role that of [X]? obviously [Y],0.0,yes,P39
+127,Was [W]'s official position [X]? obviously [Y],0.0,yes,P39
+128,Was [W]'s official position that of [X]? obviously [Y],0.0,yes,P39
+129,Was [W]'s official role [X]? obviously [Y],0.0,yes,P39
+130,Was [W]'s official role that of [X]? obviously [Y],0.0,yes,P39
+131,Was [W]'s position [X]? obviously [Y],0.0,yes,P39
+132,Was [W]'s position that of [X]? obviously [Y],0.0,yes,P39
+133,Was [W]'s public position [X]? obviously [Y],0.0,yes,P39
+134,Was [W]'s public position that of [X]? obviously [Y],0.0,yes,P39
+135,Was [W]'s public role [X]? obviously [Y],0.0,yes,P39
+136,Was [W]'s public role that of [X]? obviously [Y],0.0,yes,P39
+137,Was [W]'s role [X]? obviously [Y],0.0,yes,P39
+138,Was [W]'s role that of [X]? obviously [Y],0.0,yes,P39
+139,Does [W] belong to the [X] category? obviously [Y],0.022821576763485476,yes,P279
+140,Does [W] have class [X]? obviously [Y],0.001037344398340249,yes,P279
+141,Is [W] a [X]? obviously [Y],0.0031120331950207467,yes,P279
+142,Is [W] a kind of [X]? obviously [Y],0.00466804979253112,yes,P279
+143,Is [W] a subclass of [X]? obviously [Y],0.00466804979253112,yes,P279
+144,Is [W] a type of [X]? obviously [Y],0.009854771784232365,yes,P279
+145,Is [W] of class [X]? obviously [Y],0.0036307053941908715,yes,P279
+146,Is [X] the class of [W]? obviously [Y],0.0036307053941908715,yes,P279
+147,Is [X] the language of [W]? obviously [Y],0.006425233644859813,yes,P364
+148,Is [X] the original language of [W]? obviously [Y],0.0011682242990654205,yes,P364
+149,Was [W] originally performed in [X]? obviously [Y],0.0005841121495327102,yes,P364
+150,Was [W] originally performed in language [X]? obviously [Y],0.0,yes,P364
+151,Was [W] originally performed in the [X] language? obviously [Y],0.0011682242990654205,yes,P364
+152,Was [W] originally performed in the following language: [X]? obviously [Y],0.0017523364485981308,yes,P364
+153,Was [W] originally played in [X]? obviously [Y],0.0,yes,P364
+154,Was [W] originally played in language [X]? obviously [Y],0.0,yes,P364
+155,Was [W] originally played in the [X] language? obviously [Y],0.0,yes,P364
+156,Was [W] originally played in the following language: [X]? obviously [Y],0.0017523364485981308,yes,P364
+157,Was [X] the language of [W]? obviously [Y],0.0005841121495327102,yes,P364
+158,Was [X] the original language of [W]? obviously [Y],0.0005841121495327102,yes,P364
+159,Did [W] come from [X]? obviously [Y],0.0,yes,P495
+160,Did [W] form in [X]? obviously [Y],0.0005341880341880342,yes,P740
+161,Did [W] originate in [X]? obviously [Y],0.011217948717948718,yes,P740
+162,Does [W] come from [X]? obviously [Y],0.0,yes,P495
+163,Does [W] originate in [X]? obviously [Y],0.0,yes,P495
+164,Is [W] formulated in [X]? obviously [Y],0.0,yes,P495
+165,Is [W] from [X]? obviously [Y],0.0022002200220022,yes,P495
+166,Is [X] [W]'s original country? obviously [Y],0.00055005500550055,yes,P495
+167,Is [X] the original country of [W]? obviously [Y],0.00055005500550055,yes,P495
+168,Was [W] created in [X]? obviously [Y],0.0005341880341880342,yes,P740
+169,Was [W] developed in [X]? obviously [Y],0.0,yes,P495
+170,Was [W] first created in [X]? obviously [Y],0.00055005500550055,yes,P495
+171,Was [W] first made in [X]? obviously [Y],0.0,yes,P495
+172,Was [W] first produced in [X]? obviously [Y],0.0,yes,P495
+173,Was [W] formed in [X]? obviously [Y],0.0,yes,P740
+174,Was [W] formulated in [X]? obviously [Y],0.0,yes,P495
+175,Was [W] from [X]? obviously [Y],0.00055005500550055,yes,P495
+176,Did [W] start in [X]? obviously [Y],0.0010683760683760685,yes,P740
+177,Was [W] founded in [X]? obviously [Y],0.0,yes,P740
+178,Was [W] started in [X]? obviously [Y],0.0,yes,P740
+179,Did [W] find employment in [X]? obviously [Y],0.0,yes,P937
+180,Did [W] take up work in [X]? obviously [Y],0.0,yes,P937
+181,Did [W] use to work in [X]? obviously [Y],0.0,yes,P937
+182,Did [W] work in [X]? obviously [Y],0.0,yes,P937
+183,Does [W] work in [X]? obviously [Y],0.0,yes,P937
+184,Is [W] employed in [X]? obviously [Y],0.0,yes,P937
+185,Is [X] [W]'s employment location? obviously [Y],0.0,yes,P937
+186,Is [X] [W]'s location of employment? obviously [Y],0.0,yes,P937
+187,Is [X] [W]'s work location? obviously [Y],0.0,yes,P937
+188,Is [X] where [W] is employed? obviously [Y],0.0,yes,P937
+189,Is [X] where [W] was employed? obviously [Y],0.0,yes,P937
+190,Was [W] employed in [X]? obviously [Y],0.0,yes,P937
+191,Was [X] [W]'s employment location? obviously [Y],0.0,yes,P937
+192,Was [X] [W]'s location of employment? obviously [Y],0.0,yes,P937
+193,Was [X] [W]'s work location? obviously [Y],0.0,yes,P937

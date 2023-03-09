@@ -15,7 +15,10 @@ class CausalLM(Base_Connector):
 
         self.model_name = args.model_name
         self.config = AutoConfig.from_pretrained(self.model_name)
-        self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
+        use_fast=True
+        if 'opt' in args.model_name:
+            use_fast=False # because of a bug with the OPT tokenizer
+        self.tokenizer = AutoTokenizer.from_pretrained(self.model_name, use_fast=use_fast)
         self.tokenizer.add_special_tokens({'pad_token': self.tokenizer.eos_token})
         self.tokenizer.add_special_tokens({'mask_token': "[MASK]"})
         self.tokenization = TOKENIZATION[self.model_name]
@@ -27,7 +30,11 @@ class CausalLM(Base_Connector):
         else:
             self._init_vocab()
 
-        self.model = AutoModelForCausalLM.from_pretrained(self.model_name)
+        if self.model_name in LARGE_MODEL_LIST:
+            self.model = AutoModelForCausalLM.from_pretrained(self.model_name, torch_dtype=torch.float16)
+        else:
+            self.model = AutoModelForCausalLM.from_pretrained(self.model_name)
+        
         self.model.eval()
 
         self.EOS = self.tokenizer.eos_token
@@ -79,6 +86,7 @@ class CausalLM(Base_Connector):
         #Optiprompt specific
         sample = pd.DataFrame(samples_list)
         sample["obj_label"] = " " + sample["obj_label"]
+
         sample["token_id"] = sample["obj_label"].apply(lambda x: self.tokenizer.convert_tokens_to_ids(self.tokenizer.tokenize(x))[0])
         labels = sample["token_id"].values
         labels_tensor = torch.full_like(input.attention_mask, -100)
@@ -87,7 +95,9 @@ class CausalLM(Base_Connector):
         last_trigger_mask = torch.zeros_like(predict_mask)
         last_trigger_id =  (np.argwhere(predict_mask)[1] - 1)
         last_trigger_mask[torch.arange(len(last_trigger_id)),last_trigger_id] = True
+
         labels_tensor[predict_mask] = torch.tensor(labels)
 
+        input["input_ids"] = torch.where(input.input_ids == self.tokenizer.mask_token_id, self.tokenizer.eos_token_id, input.input_ids)
         return input ,masked_indices_list, labels_tensor, labels.tolist(), last_trigger_mask
 

@@ -1,0 +1,195 @@
+,question,acc,target,fact
+0,Does [W] speak [X] as a mother tongue? I would need to double check but maybe [Y],0.18167860798362334,No,P103
+1,Does [W] speak [X] as a native language? I would need to double check but maybe [Y],0.22364380757420677,No,P103
+2,Is [X] [W]'s mother tongue? I would need to double check but maybe [Y],0.12794268167860798,No,P103
+3,Is [X] [W]'s native language? I would need to double check but maybe [Y],0.14687819856704196,No,P103
+4,Does [W] work for [X]? I would need to double check but maybe [Y],0.47127937336814624,No,P108
+5,Is [W] employed by [X]? I would need to double check but maybe [Y],0.4660574412532637,No,P108
+6,Did [W] originate from [X]? I would need to double check but maybe [Y],0.3204449152542373,No,P19
+7,Does [W] originate from [X]? I would need to double check but maybe [Y],0.2330508474576271,No,P19
+8,Is [W] a [X]-born person? I would need to double check but maybe [Y],0.2833686440677966,No,P19
+9,Is [W] an [X]-born person? I would need to double check but maybe [Y],0.305614406779661,No,P19
+10,Is [W] native to [X]? I would need to double check but maybe [Y],0.21398305084745764,No,P19
+11,Is [W] originally from [X]? I would need to double check but maybe [Y],0.18273305084745764,No,P19
+12,Is [X] [W]'s birthplace? I would need to double check but maybe [Y],0.2621822033898305,No,P19
+13,Is [X] [W]'s place of birth? I would need to double check but maybe [Y],0.3760593220338983,No,P19
+14,Was [W] a [X]-born person? I would need to double check but maybe [Y],0.2992584745762712,No,P19
+15,Was [W] an [X]-born person? I would need to double check but maybe [Y],0.3363347457627119,No,P19
+16,Was [W] born in [X]? I would need to double check but maybe [Y],0.22404661016949154,No,P19
+17,Was [W] native to [X]? I would need to double check but maybe [Y],0.21610169491525424,No,P19
+18,Was [W] originally from [X]? I would need to double check but maybe [Y],0.3114406779661017,No,P19
+19,Was [X] [W]'s birthplace? I would need to double check but maybe [Y],0.3675847457627119,No,P19
+20,Was [X] [W]'s place of birth? I would need to double check but maybe [Y],0.420021186440678,No,P19
+21,Did [W] die at [X]? I would need to double check but maybe [Y],0.35099685204617,No,P20
+22,Did [W] die in [X]? I would need to double check but maybe [Y],0.3011542497376705,No,P20
+23,Did [W] expire at [X]? I would need to double check but maybe [Y],0.47166841552990557,No,P20
+24,Did [W] expire in [X]? I would need to double check but maybe [Y],0.4669464847848898,No,P20
+25,Did [W] lose their life at [X]? I would need to double check but maybe [Y],0.38352570828961174,No,P20
+26,Did [W] lose their life in [X]? I would need to double check but maybe [Y],0.3478488982161595,No,P20
+27,Did [W] pass away at [X]? I would need to double check but maybe [Y],0.3772298006295908,No,P20
+28,Did [W] pass away in [X]? I would need to double check but maybe [Y],0.35257082896117525,No,P20
+29,Did [W] succumb at [X]? I would need to double check but maybe [Y],0.3772298006295908,No,P20
+30,Did [W] succumb in [X]? I would need to double check but maybe [Y],0.3620146904512067,No,P20
+31,Did [W]'s life end at [X]? I would need to double check but maybe [Y],0.3861490031479538,No,P20
+32,Did [W]'s life end in [X]? I would need to double check but maybe [Y],0.363588667366212,No,P20
+33,Is [X] [W]'s death location? I would need to double check but maybe [Y],0.4753410283315845,No,P20
+34,Is [X] [W]'s death place? I would need to double check but maybe [Y],0.40293809024134314,No,P20
+35,Is [X] [W]'s place of death? I would need to double check but maybe [Y],0.4653725078698846,No,P20
+36,Was [X] [W]'s death location? I would need to double check but maybe [Y],0.48898216159496327,No,P20
+37,Was [X] [W]'s death place? I would need to double check but maybe [Y],0.4559286463798531,No,P20
+38,Was [X] [W]'s place of death? I would need to double check but maybe [Y],0.48111227701993703,No,P20
+39,Does [W] belong to continent [X]? I would need to double check but maybe [Y],0.45897435897435895,No,P30
+40,Does [W] belong to the continent of [X]? I would need to double check but maybe [Y],0.4235897435897436,No,P30
+41,Is [W] a part of continent [X]? I would need to double check but maybe [Y],0.418974358974359,No,P30
+42,Is [W] a part of the continent [X]? I would need to double check but maybe [Y],0.44461538461538463,No,P30
+43,Is [W] a part of the continent of [X]? I would need to double check but maybe [Y],0.418974358974359,No,P30
+44,Is [W] located in [X]? I would need to double check but maybe [Y],0.4764102564102564,No,P30
+45,Is [W] located in continent [X]? I would need to double check but maybe [Y],0.48102564102564105,No,P30
+46,Is [W] located in the [X] continent? I would need to double check but maybe [Y],0.442051282051282,No,P30
+47,Is [W] located in the continent [X]? I would need to double check but maybe [Y],0.4723076923076923,No,P30
+48,Is [W] part of the [X] continent? I would need to double check but maybe [Y],0.4287179487179487,No,P30
+49,Is [X] [W]'s continent? I would need to double check but maybe [Y],0.49538461538461537,No,P30
+50,Is [X] the continent of [W]? I would need to double check but maybe [Y],0.48256410256410254,No,P30
+51,Did [W] have the [X] position? I would need to double check but maybe [Y],0.47533632286995514,No,P39
+52,Did [W] have the [X] role? I would need to double check but maybe [Y],0.46356502242152464,No,P39
+53,Did [W] have the official [X] position? I would need to double check but maybe [Y],0.4820627802690583,No,P39
+54,Did [W] have the official [X] role? I would need to double check but maybe [Y],0.476457399103139,No,P39
+55,Did [W] have the official position of [X]? I would need to double check but maybe [Y],0.4579596412556054,No,P39
+56,Did [W] have the official role of [X]? I would need to double check but maybe [Y],0.40639013452914796,No,P39
+57,Did [W] have the position of [X]? I would need to double check but maybe [Y],0.4467488789237668,No,P39
+58,Did [W] have the public [X] position? I would need to double check but maybe [Y],0.4562780269058296,No,P39
+59,Did [W] have the public [X] role? I would need to double check but maybe [Y],0.4344170403587444,No,P39
+60,Did [W] have the public position of [X]? I would need to double check but maybe [Y],0.37051569506726456,No,P39
+61,Did [W] have the public role of [X]? I would need to double check but maybe [Y],0.31670403587443946,No,P39
+62,Did [W] have the role of [X]? I would need to double check but maybe [Y],0.3783632286995516,No,P39
+63,Did [W] hold the [X] position? I would need to double check but maybe [Y],0.4433856502242152,No,P39
+64,Did [W] hold the [X] role? I would need to double check but maybe [Y],0.40975336322869954,No,P39
+65,Did [W] hold the official [X] position? I would need to double check but maybe [Y],0.4680493273542601,No,P39
+66,Did [W] hold the official [X] role? I would need to double check but maybe [Y],0.4585201793721973,No,P39
+67,Did [W] hold the official position of [X]? I would need to double check but maybe [Y],0.42432735426008966,No,P39
+68,Did [W] hold the official role of [X]? I would need to double check but maybe [Y],0.38172645739910316,No,P39
+69,Did [W] hold the position of [X]? I would need to double check but maybe [Y],0.38228699551569506,No,P39
+70,Did [W] hold the public [X] position? I would need to double check but maybe [Y],0.4075112107623318,No,P39
+71,Did [W] hold the public [X] role? I would need to double check but maybe [Y],0.3778026905829596,No,P39
+72,Did [W] hold the public position of [X]? I would need to double check but maybe [Y],0.327914798206278,No,P39
+73,Did [W] hold the public role of [X]? I would need to double check but maybe [Y],0.27858744394618834,No,P39
+74,Did [W] hold the role of [X]? I would need to double check but maybe [Y],0.33239910313901344,No,P39
+75,Did [W] officially hold the [X] position? I would need to double check but maybe [Y],0.46580717488789236,No,P39
+76,Did [W] officially hold the [X] role? I would need to double check but maybe [Y],0.461322869955157,No,P39
+77,Did [W] officially hold the position of [X]? I would need to double check but maybe [Y],0.4282511210762332,No,P39
+78,Did [W] officially hold the public [X] position? I would need to double check but maybe [Y],0.45067264573991034,No,P39
+79,Did [W] officially hold the public [X] role? I would need to double check but maybe [Y],0.4428251121076233,No,P39
+80,Did [W] officially hold the public position of [X]? I would need to double check but maybe [Y],0.4131165919282511,No,P39
+81,Did [W] officially hold the public role of [X]? I would need to double check but maybe [Y],0.3845291479820628,No,P39
+82,Did [W] officially hold the role of [X]? I would need to double check but maybe [Y],0.41143497757847536,No,P39
+83,Does [W] have the [X] position? I would need to double check but maybe [Y],0.48710762331838564,No,P39
+84,Does [W] have the [X] role? I would need to double check but maybe [Y],0.4792600896860987,No,P39
+85,Does [W] have the official [X] position? I would need to double check but maybe [Y],0.4859865470852018,No,P39
+86,Does [W] have the official [X] role? I would need to double check but maybe [Y],0.4848654708520179,No,P39
+87,Does [W] have the official position of [X]? I would need to double check but maybe [Y],0.4557174887892377,No,P39
+88,Does [W] have the official role of [X]? I would need to double check but maybe [Y],0.44114349775784756,No,P39
+89,Does [W] have the position of [X]? I would need to double check but maybe [Y],0.46524663677130046,No,P39
+90,Does [W] have the public [X] position? I would need to double check but maybe [Y],0.47757847533632286,No,P39
+91,Does [W] have the public [X] role? I would need to double check but maybe [Y],0.4669282511210762,No,P39
+92,Does [W] have the public position of [X]? I would need to double check but maybe [Y],0.39742152466367714,No,P39
+93,Does [W] have the public role of [X]? I would need to double check but maybe [Y],0.3716367713004484,No,P39
+94,Does [W] have the role of [X]? I would need to double check but maybe [Y],0.39461883408071746,No,P39
+95,Does [W] hold the [X] position? I would need to double check but maybe [Y],0.46917040358744394,No,P39
+96,Does [W] hold the [X] role? I would need to double check but maybe [Y],0.4557174887892377,No,P39
+97,Does [W] hold the official [X] position? I would need to double check but maybe [Y],0.47477578475336324,No,P39
+98,Does [W] hold the official [X] role? I would need to double check but maybe [Y],0.4702914798206278,No,P39
+99,Does [W] hold the official position of [X]? I would need to double check but maybe [Y],0.45123318385650224,No,P39
+100,Does [W] hold the official role of [X]? I would need to double check but maybe [Y],0.4349775784753363,No,P39
+101,Does [W] hold the position of [X]? I would need to double check but maybe [Y],0.4086322869955157,No,P39
+102,Does [W] hold the public [X] position? I would need to double check but maybe [Y],0.4641255605381166,No,P39
+103,Does [W] hold the public [X] role? I would need to double check but maybe [Y],0.4433856502242152,No,P39
+104,Does [W] hold the public position of [X]? I would need to double check but maybe [Y],0.38565022421524664,No,P39
+105,Does [W] hold the public role of [X]? I would need to double check but maybe [Y],0.35033632286995514,No,P39
+106,Does [W] hold the role of [X]? I would need to double check but maybe [Y],0.34697309417040356,No,P39
+107,Does [W] officially hold the [X] position? I would need to double check but maybe [Y],0.4786995515695067,No,P39
+108,Does [W] officially hold the [X] role? I would need to double check but maybe [Y],0.47701793721973096,No,P39
+109,Does [W] officially hold the position of [X]? I would need to double check but maybe [Y],0.4523542600896861,No,P39
+110,Does [W] officially hold the public [X] position? I would need to double check but maybe [Y],0.4680493273542601,No,P39
+111,Does [W] officially hold the public [X] role? I would need to double check but maybe [Y],0.4641255605381166,No,P39
+112,Does [W] officially hold the public position of [X]? I would need to double check but maybe [Y],0.4265695067264574,No,P39
+113,Does [W] officially hold the public role of [X]? I would need to double check but maybe [Y],0.422085201793722,No,P39
+114,Does [W] officially hold the role of [X]? I would need to double check but maybe [Y],0.4288116591928251,No,P39
+115,Is [W]'s official position [X]? I would need to double check but maybe [Y],0.42769058295964124,No,P39
+116,Is [W]'s official position that of [X]? I would need to double check but maybe [Y],0.37668161434977576,No,P39
+117,Is [W]'s official role [X]? I would need to double check but maybe [Y],0.4310538116591928,No,P39
+118,Is [W]'s official role that of [X]? I would need to double check but maybe [Y],0.40582959641255606,No,P39
+119,Is [W]'s position [X]? I would need to double check but maybe [Y],0.4198430493273543,No,P39
+120,Is [W]'s position that of [X]? I would need to double check but maybe [Y],0.37051569506726456,No,P39
+121,Is [W]'s public position [X]? I would need to double check but maybe [Y],0.35257847533632286,No,P39
+122,Is [W]'s public position that of [X]? I would need to double check but maybe [Y],0.3071748878923767,No,P39
+123,Is [W]'s public role [X]? I would need to double check but maybe [Y],0.3352017937219731,No,P39
+124,Is [W]'s public role that of [X]? I would need to double check but maybe [Y],0.30885650224215244,No,P39
+125,Is [W]'s role [X]? I would need to double check but maybe [Y],0.40975336322869954,No,P39
+126,Is [W]'s role that of [X]? I would need to double check but maybe [Y],0.35874439461883406,No,P39
+127,Was [W]'s official position [X]? I would need to double check but maybe [Y],0.44786995515695066,No,P39
+128,Was [W]'s official position that of [X]? I would need to double check but maybe [Y],0.4204035874439462,No,P39
+129,Was [W]'s official role [X]? I would need to double check but maybe [Y],0.4445067264573991,No,P39
+130,Was [W]'s official role that of [X]? I would need to double check but maybe [Y],0.42713004484304934,No,P39
+131,Was [W]'s position [X]? I would need to double check but maybe [Y],0.4461883408071749,No,P39
+132,Was [W]'s position that of [X]? I would need to double check but maybe [Y],0.3991031390134529,No,P39
+133,Was [W]'s public position [X]? I would need to double check but maybe [Y],0.4052690582959641,No,P39
+134,Was [W]'s public position that of [X]? I would need to double check but maybe [Y],0.3492152466367713,No,P39
+135,Was [W]'s public role [X]? I would need to double check but maybe [Y],0.390695067264574,No,P39
+136,Was [W]'s public role that of [X]? I would need to double check but maybe [Y],0.3542600896860987,No,P39
+137,Was [W]'s role [X]? I would need to double check but maybe [Y],0.42993273542600896,No,P39
+138,Was [W]'s role that of [X]? I would need to double check but maybe [Y],0.39461883408071746,No,P39
+139,Does [W] belong to the [X] category? I would need to double check but maybe [Y],0.46887966804979253,No,P279
+140,Does [W] have class [X]? I would need to double check but maybe [Y],0.48651452282157676,No,P279
+141,Is [W] a [X]? I would need to double check but maybe [Y],0.45643153526970953,No,P279
+142,Is [W] a kind of [X]? I would need to double check but maybe [Y],0.45487551867219916,No,P279
+143,Is [W] a subclass of [X]? I would need to double check but maybe [Y],0.4683609958506224,No,P279
+144,Is [W] a type of [X]? I would need to double check but maybe [Y],0.44761410788381745,No,P279
+145,Is [W] of class [X]? I would need to double check but maybe [Y],0.46732365145228216,No,P279
+146,Is [X] the class of [W]? I would need to double check but maybe [Y],0.4579875518672199,No,P279
+147,Is [X] the language of [W]? I would need to double check but maybe [Y],0.11974299065420561,No,P364
+148,Is [X] the original language of [W]? I would need to double check but maybe [Y],0.08644859813084112,No,P364
+149,Was [W] originally performed in [X]? I would need to double check but maybe [Y],0.06016355140186916,No,P364
+150,Was [W] originally performed in language [X]? I would need to double check but maybe [Y],0.04848130841121495,No,P364
+151,Was [W] originally performed in the [X] language? I would need to double check but maybe [Y],0.05023364485981308,No,P364
+152,Was [W] originally performed in the following language: [X]? I would need to double check but maybe [Y],0.005257009345794392,No,P364
+153,Was [W] originally played in [X]? I would need to double check but maybe [Y],0.125,No,P364
+154,Was [W] originally played in language [X]? I would need to double check but maybe [Y],0.12149532710280374,No,P364
+155,Was [W] originally played in the [X] language? I would need to double check but maybe [Y],0.14018691588785046,No,P364
+156,Was [W] originally played in the following language: [X]? I would need to double check but maybe [Y],0.007009345794392523,No,P364
+157,Was [X] the language of [W]? I would need to double check but maybe [Y],0.18574766355140188,No,P364
+158,Was [X] the original language of [W]? I would need to double check but maybe [Y],0.1413551401869159,No,P364
+159,Did [W] come from [X]? I would need to double check but maybe [Y],0.4213421342134213,No,P495
+160,Did [W] form in [X]? I would need to double check but maybe [Y],0.32585470085470086,No,P740
+161,Did [W] originate in [X]? I would need to double check but maybe [Y],0.3247863247863248,No,P740
+162,Does [W] come from [X]? I would need to double check but maybe [Y],0.3256325632563256,No,P495
+163,Does [W] originate in [X]? I would need to double check but maybe [Y],0.2002200220022002,No,P495
+164,Is [W] formulated in [X]? I would need to double check but maybe [Y],0.36633663366336633,No,P495
+165,Is [W] from [X]? I would need to double check but maybe [Y],0.290979097909791,No,P495
+166,Is [X] [W]'s original country? I would need to double check but maybe [Y],0.40154015401540155,No,P495
+167,Is [X] the original country of [W]? I would need to double check but maybe [Y],0.26952695269526955,No,P495
+168,Was [W] created in [X]? I would need to double check but maybe [Y],0.40384615384615385,No,P740
+169,Was [W] developed in [X]? I would need to double check but maybe [Y],0.4196919691969197,No,P495
+170,Was [W] first created in [X]? I would need to double check but maybe [Y],0.3998899889988999,No,P495
+171,Was [W] first made in [X]? I would need to double check but maybe [Y],0.4603960396039604,No,P495
+172,Was [W] first produced in [X]? I would need to double check but maybe [Y],0.43344334433443343,No,P495
+173,Was [W] formed in [X]? I would need to double check but maybe [Y],0.40010683760683763,No,P740
+174,Was [W] formulated in [X]? I would need to double check but maybe [Y],0.4444444444444444,No,P495
+175,Was [W] from [X]? I would need to double check but maybe [Y],0.41089108910891087,No,P495
+176,Did [W] start in [X]? I would need to double check but maybe [Y],0.3488247863247863,No,P740
+177,Was [W] founded in [X]? I would need to double check but maybe [Y],0.3472222222222222,No,P740
+178,Was [W] started in [X]? I would need to double check but maybe [Y],0.39797008547008544,No,P740
+179,Did [W] find employment in [X]? I would need to double check but maybe [Y],0.42557651991614254,No,P937
+180,Did [W] take up work in [X]? I would need to double check but maybe [Y],0.4082809224318658,No,P937
+181,Did [W] use to work in [X]? I would need to double check but maybe [Y],0.31761006289308175,No,P937
+182,Did [W] work in [X]? I would need to double check but maybe [Y],0.43448637316561844,No,P937
+183,Does [W] work in [X]? I would need to double check but maybe [Y],0.44549266247379454,No,P937
+184,Is [W] employed in [X]? I would need to double check but maybe [Y],0.4276729559748428,No,P937
+185,Is [X] [W]'s employment location? I would need to double check but maybe [Y],0.4916142557651992,No,P937
+186,Is [X] [W]'s location of employment? I would need to double check but maybe [Y],0.47955974842767296,No,P937
+187,Is [X] [W]'s work location? I would need to double check but maybe [Y],0.48480083857442346,No,P937
+188,Is [X] where [W] is employed? I would need to double check but maybe [Y],0.45125786163522014,No,P937
+189,Is [X] where [W] was employed? I would need to double check but maybe [Y],0.40985324947589097,No,P937
+190,Was [W] employed in [X]? I would need to double check but maybe [Y],0.4119496855345912,No,P937
+191,Was [X] [W]'s employment location? I would need to double check but maybe [Y],0.4947589098532495,No,P937
+192,Was [X] [W]'s location of employment? I would need to double check but maybe [Y],0.48165618448637315,No,P937
+193,Was [X] [W]'s work location? I would need to double check but maybe [Y],0.4879454926624738,No,P937

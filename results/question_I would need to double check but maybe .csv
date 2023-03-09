@@ -1,0 +1,12 @@
+fact_x,question,accuracy
+P103,Is [X] [W]'s native language? I would need to double check but maybe [Y],0.3838280450358238
+P108,Is [W] employed by [X]? I would need to double check but maybe [Y],0.6383812010443863
+P19,Was [X] [W]'s place of birth? I would need to double check but maybe [Y],0.510593220338983
+P20,Was [X] [W]'s place of death? I would need to double check but maybe [Y],0.5167890870933892
+P279,Is [X] the class of [W]? I would need to double check but maybe [Y],0.5326763485477177
+P30,Is [X] the continent of [W]? I would need to double check but maybe [Y],0.5117948717948717
+P364,Was [X] the original language of [W]? I would need to double check but maybe [Y],0.4941588785046728
+P39,Was [W]'s role that of [X]? I would need to double check but maybe [Y],0.5050448430493273
+P495,Was [W] from [X]? I would need to double check but maybe [Y],0.49339933993399343
+P740,Was [W] started in [X]? I would need to double check but maybe [Y],0.4941239316239316
+P937,Was [X] [W]'s work location? I would need to double check but maybe [Y],0.5057651991614256

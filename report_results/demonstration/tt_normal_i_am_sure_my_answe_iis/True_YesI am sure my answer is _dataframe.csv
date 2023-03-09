@@ -1,0 +1,199 @@
+,question,acc,target,fact
+0,Does [P103_TA] speak [P103_TB] as a mother tongue? Yes. Does [P103_TA] speak [P103_TB] as a mother tongue? Yes. Does [W] speak [X] as a mother tongue? I am sure my answer is [Y],0.03172978505629478,Yes,P103
+1,Does [P103_TA] speak [P103_TB] as a native language? Yes. Does [P103_TA] speak [P103_TB] as a native language? Yes. Does [W] speak [X] as a native language? I am sure my answer is [Y],0.01330603889457523,Yes,P103
+2,Is [P103_TB] [P103_TA]'s mother tongue? Yes. Is [P103_TB] [P103_TA]'s mother tongue? Yes. Is [X] [W]'s mother tongue? I am sure my answer is [Y],0.05527123848515865,Yes,P103
+3,Is [P103_TB] [P103_TA]'s native language? Yes. Is [P103_TB] [P103_TA]'s native language? Yes. Is [X] [W]'s native language? I am sure my answer is [Y],0.030706243602865915,Yes,P103
+4,Does [P108_TA] work for [P108_TB]? Yes. Does [P108_TA] work for [P108_TB]? Yes. Does [W] work for [X]? I am sure my answer is [Y],0.0,Yes,P108
+5,Is [P108_TA] employed by [P108_TB]? Yes. Is [P108_TA] employed by [P108_TB]? Yes. Is [W] employed by [X]? I am sure my answer is [Y],0.0,Yes,P108
+6,Did [P19_TA] originate from [P19_TB]? Yes. Did [P19_TA] originate from [P19_TB]? Yes. Did [W] originate from [X]? I am sure my answer is [Y],0.001059322033898305,Yes,P19
+7,Does [P19_TA] originate from [P19_TB]? Yes. Does [P19_TA] originate from [P19_TB]? Yes. Does [W] originate from [X]? I am sure my answer is [Y],0.0026483050847457626,Yes,P19
+8,Is [P19_TA] a [P19_TB]-born person? Yes. Is [P19_TA] a [P19_TB]-born person? Yes. Is [W] a [X]-born person? I am sure my answer is [Y],0.003707627118644068,Yes,P19
+9,Is [P19_TA] an [P19_TB]-born person? Yes. Is [P19_TA] an [P19_TB]-born person? Yes. Is [W] an [X]-born person? I am sure my answer is [Y],0.0026483050847457626,Yes,P19
+10,Is [P19_TA] native to [P19_TB]? Yes. Is [P19_TA] native to [P19_TB]? Yes. Is [W] native to [X]? I am sure my answer is [Y],0.003707627118644068,Yes,P19
+11,Is [P19_TA] originally from [P19_TB]? Yes. Is [P19_TA] originally from [P19_TB]? Yes. Is [W] originally from [X]? I am sure my answer is [Y],0.0,Yes,P19
+12,Is [P19_TB] [P19_TA]'s birthplace? Yes. Is [P19_TB] [P19_TA]'s birthplace? Yes. Is [X] [W]'s birthplace? I am sure my answer is [Y],0.012711864406779662,Yes,P19
+13,Is [P19_TB] [P19_TA]'s place of birth? Yes. Is [P19_TB] [P19_TA]'s place of birth? Yes. Is [X] [W]'s place of birth? I am sure my answer is [Y],0.023305084745762712,Yes,P19
+14,Was [P19_TA] a [P19_TB]-born person? Yes. Was [P19_TA] a [P19_TB]-born person? Yes. Was [W] a [X]-born person? I am sure my answer is [Y],0.001059322033898305,Yes,P19
+15,Was [P19_TA] an [P19_TB]-born person? Yes. Was [P19_TA] an [P19_TB]-born person? Yes. Was [W] an [X]-born person? I am sure my answer is [Y],0.0,Yes,P19
+16,Was [P19_TA] born in [P19_TB]? Yes. Was [P19_TA] born in [P19_TB]? Yes. Was [W] born in [X]? I am sure my answer is [Y],0.006355932203389831,Yes,P19
+17,Was [P19_TA] native to [P19_TB]? Yes. Was [P19_TA] native to [P19_TB]? Yes. Was [W] native to [X]? I am sure my answer is [Y],0.0,Yes,P19
+18,Was [P19_TA] originally from [P19_TB]? Yes. Was [P19_TA] originally from [P19_TB]? Yes. Was [W] originally from [X]? I am sure my answer is [Y],0.0,Yes,P19
+19,Was [P19_TB] [P19_TA]'s birthplace? Yes. Was [P19_TB] [P19_TA]'s birthplace? Yes. Was [X] [W]'s birthplace? I am sure my answer is [Y],0.0015889830508474577,Yes,P19
+20,Was [P19_TB] [P19_TA]'s place of birth? Yes. Was [P19_TB] [P19_TA]'s place of birth? Yes. Was [X] [W]'s place of birth? I am sure my answer is [Y],0.0026483050847457626,Yes,P19
+21,Did [P20_TA] die at [P20_TB]? Yes. Did [P20_TA] die at [P20_TB]? Yes. Did [W] die at [X]? I am sure my answer is [Y],0.0026232948583420775,Yes,P20
+22,Did [P20_TA] die in [P20_TB]? Yes. Did [P20_TA] die in [P20_TB]? Yes. Did [W] die in [X]? I am sure my answer is [Y],0.0031479538300104933,Yes,P20
+23,Did [P20_TA] expire at [P20_TB]? Yes. Did [P20_TA] expire at [P20_TB]? Yes. Did [W] expire at [X]? I am sure my answer is [Y],0.001049317943336831,Yes,P20
+24,Did [P20_TA] expire in [P20_TB]? Yes. Did [P20_TA] expire in [P20_TB]? Yes. Did [W] expire in [X]? I am sure my answer is [Y],0.005246589716684155,Yes,P20
+25,Did [P20_TA] lose their life at [P20_TB]? Yes. Did [P20_TA] lose their life at [P20_TB]? Yes. Did [W] lose their life at [X]? I am sure my answer is [Y],0.00472193074501574,Yes,P20
+26,Did [P20_TA] lose their life in [P20_TB]? Yes. Did [P20_TA] lose their life in [P20_TB]? Yes. Did [W] lose their life in [X]? I am sure my answer is [Y],0.004197271773347324,Yes,P20
+27,Did [P20_TA] pass away at [P20_TB]? Yes. Did [P20_TA] pass away at [P20_TB]? Yes. Did [W] pass away at [X]? I am sure my answer is [Y],0.0015739769150052466,Yes,P20
+28,Did [P20_TA] pass away in [P20_TB]? Yes. Did [P20_TA] pass away in [P20_TB]? Yes. Did [W] pass away in [X]? I am sure my answer is [Y],0.0026232948583420775,Yes,P20
+29,Did [P20_TA] succumb at [P20_TB]? Yes. Did [P20_TA] succumb at [P20_TB]? Yes. Did [W] succumb at [X]? I am sure my answer is [Y],0.0026232948583420775,Yes,P20
+30,Did [P20_TA] succumb in [P20_TB]? Yes. Did [P20_TA] succumb in [P20_TB]? Yes. Did [W] succumb in [X]? I am sure my answer is [Y],0.0005246589716684155,Yes,P20
+31,Did [P20_TA]'s life end at [P20_TB]? Yes. Did [P20_TA]'s life end at [P20_TB]? Yes. Did [W]'s life end at [X]? I am sure my answer is [Y],0.0031479538300104933,Yes,P20
+32,Did [P20_TA]'s life end in [P20_TB]? Yes. Did [P20_TA]'s life end in [P20_TB]? Yes. Did [W]'s life end in [X]? I am sure my answer is [Y],0.005771248688352571,Yes,P20
+33,Is [P20_TB] [P20_TA]'s death location? Yes. Is [P20_TB] [P20_TA]'s death location? Yes. Is [X] [W]'s death location? I am sure my answer is [Y],0.01049317943336831,Yes,P20
+34,Is [P20_TB] [P20_TA]'s death place? Yes. Is [P20_TB] [P20_TA]'s death place? Yes. Is [X] [W]'s death place? I am sure my answer is [Y],0.025183630640083946,Yes,P20
+35,Is [P20_TB] [P20_TA]'s place of death? Yes. Is [P20_TB] [P20_TA]'s place of death? Yes. Is [X] [W]'s place of death? I am sure my answer is [Y],0.01993704092339979,Yes,P20
+36,Was [P20_TB] [P20_TA]'s death location? Yes. Was [P20_TB] [P20_TA]'s death location? Yes. Was [X] [W]'s death location? I am sure my answer is [Y],0.0,Yes,P20
+37,Was [P20_TB] [P20_TA]'s death place? Yes. Was [P20_TB] [P20_TA]'s death place? Yes. Was [X] [W]'s death place? I am sure my answer is [Y],0.002098635886673662,Yes,P20
+38,Was [P20_TB] [P20_TA]'s place of death? Yes. Was [P20_TB] [P20_TA]'s place of death? Yes. Was [X] [W]'s place of death? I am sure my answer is [Y],0.001049317943336831,Yes,P20
+39,Does [P30_TA] belong to continent [P30_TB]? Yes. Does [P30_TA] belong to continent [P30_TB]? Yes. Does [W] belong to continent [X]? I am sure my answer is [Y],0.002564102564102564,Yes,P30
+40,Does [P30_TA] belong to the continent of [P30_TB]? Yes. Does [P30_TA] belong to the continent of [P30_TB]? Yes. Does [W] belong to the continent of [X]? I am sure my answer is [Y],0.0,Yes,P30
+41,Is [P30_TA] a part of continent [P30_TB]? Yes. Is [P30_TA] a part of continent [P30_TB]? Yes. Is [W] a part of continent [X]? I am sure my answer is [Y],0.0020512820512820513,Yes,P30
+42,Is [P30_TA] a part of the continent [P30_TB]? Yes. Is [P30_TA] a part of the continent [P30_TB]? Yes. Is [W] a part of the continent [X]? I am sure my answer is [Y],0.0015384615384615385,Yes,P30
+43,Is [P30_TA] a part of the continent of [P30_TB]? Yes. Is [P30_TA] a part of the continent of [P30_TB]? Yes. Is [W] a part of the continent of [X]? I am sure my answer is [Y],0.002564102564102564,Yes,P30
+44,Is [P30_TA] located in [P30_TB]? Yes. Is [P30_TA] located in [P30_TB]? Yes. Is [W] located in [X]? I am sure my answer is [Y],0.004615384615384616,Yes,P30
+45,Is [P30_TA] located in continent [P30_TB]? Yes. Is [P30_TA] located in continent [P30_TB]? Yes. Is [W] located in continent [X]? I am sure my answer is [Y],0.01641025641025641,Yes,P30
+46,Is [P30_TA] located in the [P30_TB] continent? Yes. Is [P30_TA] located in the [P30_TB] continent? Yes. Is [W] located in the [X] continent? I am sure my answer is [Y],0.02564102564102564,Yes,P30
+47,Is [P30_TA] located in the continent [P30_TB]? Yes. Is [P30_TA] located in the continent [P30_TB]? Yes. Is [W] located in the continent [X]? I am sure my answer is [Y],0.013333333333333334,Yes,P30
+48,Is [P30_TA] part of the [P30_TB] continent? Yes. Is [P30_TA] part of the [P30_TB] continent? Yes. Is [W] part of the [X] continent? I am sure my answer is [Y],0.0020512820512820513,Yes,P30
+49,Is [P30_TB] [P30_TA]'s continent? Yes. Is [P30_TB] [P30_TA]'s continent? Yes. Is [X] [W]'s continent? I am sure my answer is [Y],0.0005128205128205128,Yes,P30
+50,Is [P30_TB] the continent of [P30_TA]? Yes. Is [P30_TB] the continent of [P30_TA]? Yes. Is [X] the continent of [W]? I am sure my answer is [Y],0.0020512820512820513,Yes,P30
+51,Did [P39_TA] have the [P39_TB] position? Yes. Did [P39_TA] have the [P39_TB] position? Yes. Did [W] have the [X] position? I am sure my answer is [Y],0.0,Yes,P39
+52,Did [P39_TA] have the [P39_TB] role? Yes. Did [P39_TA] have the [P39_TB] role? Yes. Did [W] have the [X] role? I am sure my answer is [Y],0.0,Yes,P39
+53,Did [P39_TA] have the official [P39_TB] position? Yes. Did [P39_TA] have the official [P39_TB] position? Yes. Did [W] have the official [X] position? I am sure my answer is [Y],0.0,Yes,P39
+54,Did [P39_TA] have the official [P39_TB] role? Yes. Did [P39_TA] have the official [P39_TB] role? Yes. Did [W] have the official [X] role? I am sure my answer is [Y],0.0,Yes,P39
+55,Did [P39_TA] have the official position of [P39_TB]? Yes. Did [P39_TA] have the official position of [P39_TB]? Yes. Did [W] have the official position of [X]? I am sure my answer is [Y],0.0,Yes,P39
+56,Did [P39_TA] have the official role of [P39_TB]? Yes. Did [P39_TA] have the official role of [P39_TB]? Yes. Did [W] have the official role of [X]? I am sure my answer is [Y],0.0,Yes,P39
+57,Did [P39_TA] have the position of [P39_TB]? Yes. Did [P39_TA] have the position of [P39_TB]? Yes. Did [W] have the position of [X]? I am sure my answer is [Y],0.0011210762331838565,Yes,P39
+58,Did [P39_TA] have the public [P39_TB] position? Yes. Did [P39_TA] have the public [P39_TB] position? Yes. Did [W] have the public [X] position? I am sure my answer is [Y],0.0,Yes,P39
+59,Did [P39_TA] have the public [P39_TB] role? Yes. Did [P39_TA] have the public [P39_TB] role? Yes. Did [W] have the public [X] role? I am sure my answer is [Y],0.0,Yes,P39
+60,Did [P39_TA] have the public position of [P39_TB]? Yes. Did [P39_TA] have the public position of [P39_TB]? Yes. Did [W] have the public position of [X]? I am sure my answer is [Y],0.0,Yes,P39
+61,Did [P39_TA] have the public role of [P39_TB]? Yes. Did [P39_TA] have the public role of [P39_TB]? Yes. Did [W] have the public role of [X]? I am sure my answer is [Y],0.0,Yes,P39
+62,Did [P39_TA] have the role of [P39_TB]? Yes. Did [P39_TA] have the role of [P39_TB]? Yes. Did [W] have the role of [X]? I am sure my answer is [Y],0.0,Yes,P39
+63,Did [P39_TA] hold the [P39_TB] position? Yes. Did [P39_TA] hold the [P39_TB] position? Yes. Did [W] hold the [X] position? I am sure my answer is [Y],0.0005605381165919282,Yes,P39
+64,Did [P39_TA] hold the [P39_TB] role? Yes. Did [P39_TA] hold the [P39_TB] role? Yes. Did [W] hold the [X] role? I am sure my answer is [Y],0.0011210762331838565,Yes,P39
+65,Did [P39_TA] hold the official [P39_TB] position? Yes. Did [P39_TA] hold the official [P39_TB] position? Yes. Did [W] hold the official [X] position? I am sure my answer is [Y],0.0,Yes,P39
+66,Did [P39_TA] hold the official [P39_TB] role? Yes. Did [P39_TA] hold the official [P39_TB] role? Yes. Did [W] hold the official [X] role? I am sure my answer is [Y],0.0011210762331838565,Yes,P39
+67,Did [P39_TA] hold the official position of [P39_TB]? Yes. Did [P39_TA] hold the official position of [P39_TB]? Yes. Did [W] hold the official position of [X]? I am sure my answer is [Y],0.0,Yes,P39
+68,Did [P39_TA] hold the official role of [P39_TB]? Yes. Did [P39_TA] hold the official role of [P39_TB]? Yes. Did [W] hold the official role of [X]? I am sure my answer is [Y],0.0,Yes,P39
+69,Did [P39_TA] hold the position of [P39_TB]? Yes. Did [P39_TA] hold the position of [P39_TB]? Yes. Did [W] hold the position of [X]? I am sure my answer is [Y],0.0016816143497757848,Yes,P39
+70,Did [P39_TA] hold the public [P39_TB] position? Yes. Did [P39_TA] hold the public [P39_TB] position? Yes. Did [W] hold the public [X] position? I am sure my answer is [Y],0.0005605381165919282,Yes,P39
+71,Did [P39_TA] hold the public [P39_TB] role? Yes. Did [P39_TA] hold the public [P39_TB] role? Yes. Did [W] hold the public [X] role? I am sure my answer is [Y],0.002242152466367713,Yes,P39
+72,Did [P39_TA] hold the public position of [P39_TB]? Yes. Did [P39_TA] hold the public position of [P39_TB]? Yes. Did [W] hold the public position of [X]? I am sure my answer is [Y],0.0,Yes,P39
+73,Did [P39_TA] hold the public role of [P39_TB]? Yes. Did [P39_TA] hold the public role of [P39_TB]? Yes. Did [W] hold the public role of [X]? I am sure my answer is [Y],0.0005605381165919282,Yes,P39
+74,Did [P39_TA] hold the role of [P39_TB]? Yes. Did [P39_TA] hold the role of [P39_TB]? Yes. Did [W] hold the role of [X]? I am sure my answer is [Y],0.0,Yes,P39
+75,Did [P39_TA] officially hold the [P39_TB] position? Yes. Did [P39_TA] officially hold the [P39_TB] position? Yes. Did [W] officially hold the [X] position? I am sure my answer is [Y],0.0005605381165919282,Yes,P39
+76,Did [P39_TA] officially hold the [P39_TB] role? Yes. Did [P39_TA] officially hold the [P39_TB] role? Yes. Did [W] officially hold the [X] role? I am sure my answer is [Y],0.0,Yes,P39
+77,Did [P39_TA] officially hold the position of [P39_TB]? Yes. Did [P39_TA] officially hold the position of [P39_TB]? Yes. Did [W] officially hold the position of [X]? I am sure my answer is [Y],0.0,Yes,P39
+78,Did [P39_TA] officially hold the public [P39_TB] position? Yes. Did [P39_TA] officially hold the public [P39_TB] position? Yes. Did [W] officially hold the public [X] position? I am sure my answer is [Y],0.0,Yes,P39
+79,Did [P39_TA] officially hold the public [P39_TB] role? Yes. Did [P39_TA] officially hold the public [P39_TB] role? Yes. Did [W] officially hold the public [X] role? I am sure my answer is [Y],0.0,Yes,P39
+80,Did [P39_TA] officially hold the public position of [P39_TB]? Yes. Did [P39_TA] officially hold the public position of [P39_TB]? Yes. Did [W] officially hold the public position of [X]? I am sure my answer is [Y],0.0,Yes,P39
+81,Did [P39_TA] officially hold the public role of [P39_TB]? Yes. Did [P39_TA] officially hold the public role of [P39_TB]? Yes. Did [W] officially hold the public role of [X]? I am sure my answer is [Y],0.0,Yes,P39
+82,Did [P39_TA] officially hold the role of [P39_TB]? Yes. Did [P39_TA] officially hold the role of [P39_TB]? Yes. Did [W] officially hold the role of [X]? I am sure my answer is [Y],0.0,Yes,P39
+83,Does [P39_TA] have the [P39_TB] position? Yes. Does [P39_TA] have the [P39_TB] position? Yes. Does [W] have the [X] position? I am sure my answer is [Y],0.0,Yes,P39
+84,Does [P39_TA] have the [P39_TB] role? Yes. Does [P39_TA] have the [P39_TB] role? Yes. Does [W] have the [X] role? I am sure my answer is [Y],0.0,Yes,P39
+85,Does [P39_TA] have the official [P39_TB] position? Yes. Does [P39_TA] have the official [P39_TB] position? Yes. Does [W] have the official [X] position? I am sure my answer is [Y],0.0,Yes,P39
+86,Does [P39_TA] have the official [P39_TB] role? Yes. Does [P39_TA] have the official [P39_TB] role? Yes. Does [W] have the official [X] role? I am sure my answer is [Y],0.0005605381165919282,Yes,P39
+87,Does [P39_TA] have the official position of [P39_TB]? Yes. Does [P39_TA] have the official position of [P39_TB]? Yes. Does [W] have the official position of [X]? I am sure my answer is [Y],0.0011210762331838565,Yes,P39
+88,Does [P39_TA] have the official role of [P39_TB]? Yes. Does [P39_TA] have the official role of [P39_TB]? Yes. Does [W] have the official role of [X]? I am sure my answer is [Y],0.0005605381165919282,Yes,P39
+89,Does [P39_TA] have the position of [P39_TB]? Yes. Does [P39_TA] have the position of [P39_TB]? Yes. Does [W] have the position of [X]? I am sure my answer is [Y],0.002802690582959641,Yes,P39
+90,Does [P39_TA] have the public [P39_TB] position? Yes. Does [P39_TA] have the public [P39_TB] position? Yes. Does [W] have the public [X] position? I am sure my answer is [Y],0.0005605381165919282,Yes,P39
+91,Does [P39_TA] have the public [P39_TB] role? Yes. Does [P39_TA] have the public [P39_TB] role? Yes. Does [W] have the public [X] role? I am sure my answer is [Y],0.0,Yes,P39
+92,Does [P39_TA] have the public position of [P39_TB]? Yes. Does [P39_TA] have the public position of [P39_TB]? Yes. Does [W] have the public position of [X]? I am sure my answer is [Y],0.002802690582959641,Yes,P39
+93,Does [P39_TA] have the public role of [P39_TB]? Yes. Does [P39_TA] have the public role of [P39_TB]? Yes. Does [W] have the public role of [X]? I am sure my answer is [Y],0.002242152466367713,Yes,P39
+94,Does [P39_TA] have the role of [P39_TB]? Yes. Does [P39_TA] have the role of [P39_TB]? Yes. Does [W] have the role of [X]? I am sure my answer is [Y],0.004484304932735426,Yes,P39
+95,Does [P39_TA] hold the [P39_TB] position? Yes. Does [P39_TA] hold the [P39_TB] position? Yes. Does [W] hold the [X] position? I am sure my answer is [Y],0.0016816143497757848,Yes,P39
+96,Does [P39_TA] hold the [P39_TB] role? Yes. Does [P39_TA] hold the [P39_TB] role? Yes. Does [W] hold the [X] role? I am sure my answer is [Y],0.002802690582959641,Yes,P39
+97,Does [P39_TA] hold the official [P39_TB] position? Yes. Does [P39_TA] hold the official [P39_TB] position? Yes. Does [W] hold the official [X] position? I am sure my answer is [Y],0.0,Yes,P39
+98,Does [P39_TA] hold the official [P39_TB] role? Yes. Does [P39_TA] hold the official [P39_TB] role? Yes. Does [W] hold the official [X] role? I am sure my answer is [Y],0.0,Yes,P39
+99,Does [P39_TA] hold the official position of [P39_TB]? Yes. Does [P39_TA] hold the official position of [P39_TB]? Yes. Does [W] hold the official position of [X]? I am sure my answer is [Y],0.0011210762331838565,Yes,P39
+100,Does [P39_TA] hold the official role of [P39_TB]? Yes. Does [P39_TA] hold the official role of [P39_TB]? Yes. Does [W] hold the official role of [X]? I am sure my answer is [Y],0.0011210762331838565,Yes,P39
+101,Does [P39_TA] hold the position of [P39_TB]? Yes. Does [P39_TA] hold the position of [P39_TB]? Yes. Does [W] hold the position of [X]? I am sure my answer is [Y],0.00616591928251121,Yes,P39
+102,Does [P39_TA] hold the public [P39_TB] position? Yes. Does [P39_TA] hold the public [P39_TB] position? Yes. Does [W] hold the public [X] position? I am sure my answer is [Y],0.0011210762331838565,Yes,P39
+103,Does [P39_TA] hold the public [P39_TB] role? Yes. Does [P39_TA] hold the public [P39_TB] role? Yes. Does [W] hold the public [X] role? I am sure my answer is [Y],0.0016816143497757848,Yes,P39
+104,Does [P39_TA] hold the public position of [P39_TB]? Yes. Does [P39_TA] hold the public position of [P39_TB]? Yes. Does [W] hold the public position of [X]? I am sure my answer is [Y],0.0005605381165919282,Yes,P39
+105,Does [P39_TA] hold the public role of [P39_TB]? Yes. Does [P39_TA] hold the public role of [P39_TB]? Yes. Does [W] hold the public role of [X]? I am sure my answer is [Y],0.0016816143497757848,Yes,P39
+106,Does [P39_TA] hold the role of [P39_TB]? Yes. Does [P39_TA] hold the role of [P39_TB]? Yes. Does [W] hold the role of [X]? I am sure my answer is [Y],0.0033632286995515697,Yes,P39
+107,Does [P39_TA] officially hold the [P39_TB] position? Yes. Does [P39_TA] officially hold the [P39_TB] position? Yes. Does [W] officially hold the [X] position? I am sure my answer is [Y],0.0,Yes,P39
+108,Does [P39_TA] officially hold the [P39_TB] role? Yes. Does [P39_TA] officially hold the [P39_TB] role? Yes. Does [W] officially hold the [X] role? I am sure my answer is [Y],0.0,Yes,P39
+109,Does [P39_TA] officially hold the position of [P39_TB]? Yes. Does [P39_TA] officially hold the position of [P39_TB]? Yes. Does [W] officially hold the position of [X]? I am sure my answer is [Y],0.0005605381165919282,Yes,P39
+110,Does [P39_TA] officially hold the public [P39_TB] position? Yes. Does [P39_TA] officially hold the public [P39_TB] position? Yes. Does [W] officially hold the public [X] position? I am sure my answer is [Y],0.0,Yes,P39
+111,Does [P39_TA] officially hold the public [P39_TB] role? Yes. Does [P39_TA] officially hold the public [P39_TB] role? Yes. Does [W] officially hold the public [X] role? I am sure my answer is [Y],0.0,Yes,P39
+112,Does [P39_TA] officially hold the public position of [P39_TB]? Yes. Does [P39_TA] officially hold the public position of [P39_TB]? Yes. Does [W] officially hold the public position of [X]? I am sure my answer is [Y],0.0,Yes,P39
+113,Does [P39_TA] officially hold the public role of [P39_TB]? Yes. Does [P39_TA] officially hold the public role of [P39_TB]? Yes. Does [W] officially hold the public role of [X]? I am sure my answer is [Y],0.0,Yes,P39
+114,Does [P39_TA] officially hold the role of [P39_TB]? Yes. Does [P39_TA] officially hold the role of [P39_TB]? Yes. Does [W] officially hold the role of [X]? I am sure my answer is [Y],0.0,Yes,P39
+115,Is [P39_TA]'s official position [P39_TB]? Yes. Is [P39_TA]'s official position [P39_TB]? Yes. Is [W]'s official position [X]? I am sure my answer is [Y],0.0,Yes,P39
+116,Is [P39_TA]'s official position that of [P39_TB]? Yes. Is [P39_TA]'s official position that of [P39_TB]? Yes. Is [W]'s official position that of [X]? I am sure my answer is [Y],0.0,Yes,P39
+117,Is [P39_TA]'s official role [P39_TB]? Yes. Is [P39_TA]'s official role [P39_TB]? Yes. Is [W]'s official role [X]? I am sure my answer is [Y],0.0,Yes,P39
+118,Is [P39_TA]'s official role that of [P39_TB]? Yes. Is [P39_TA]'s official role that of [P39_TB]? Yes. Is [W]'s official role that of [X]? I am sure my answer is [Y],0.0,Yes,P39
+119,Is [P39_TA]'s position [P39_TB]? Yes. Is [P39_TA]'s position [P39_TB]? Yes. Is [W]'s position [X]? I am sure my answer is [Y],0.0,Yes,P39
+120,Is [P39_TA]'s position that of [P39_TB]? Yes. Is [P39_TA]'s position that of [P39_TB]? Yes. Is [W]'s position that of [X]? I am sure my answer is [Y],0.0,Yes,P39
+121,Is [P39_TA]'s public position [P39_TB]? Yes. Is [P39_TA]'s public position [P39_TB]? Yes. Is [W]'s public position [X]? I am sure my answer is [Y],0.0,Yes,P39
+122,Is [P39_TA]'s public position that of [P39_TB]? Yes. Is [P39_TA]'s public position that of [P39_TB]? Yes. Is [W]'s public position that of [X]? I am sure my answer is [Y],0.0,Yes,P39
+123,Is [P39_TA]'s public role [P39_TB]? Yes. Is [P39_TA]'s public role [P39_TB]? Yes. Is [W]'s public role [X]? I am sure my answer is [Y],0.0,Yes,P39
+124,Is [P39_TA]'s public role that of [P39_TB]? Yes. Is [P39_TA]'s public role that of [P39_TB]? Yes. Is [W]'s public role that of [X]? I am sure my answer is [Y],0.0,Yes,P39
+125,Is [P39_TA]'s role [P39_TB]? Yes. Is [P39_TA]'s role [P39_TB]? Yes. Is [W]'s role [X]? I am sure my answer is [Y],0.0,Yes,P39
+126,Is [P39_TA]'s role that of [P39_TB]? Yes. Is [P39_TA]'s role that of [P39_TB]? Yes. Is [W]'s role that of [X]? I am sure my answer is [Y],0.0005605381165919282,Yes,P39
+127,Was [P39_TA]'s official position [P39_TB]? Yes. Was [P39_TA]'s official position [P39_TB]? Yes. Was [W]'s official position [X]? I am sure my answer is [Y],0.0,Yes,P39
+128,Was [P39_TA]'s official position that of [P39_TB]? Yes. Was [P39_TA]'s official position that of [P39_TB]? Yes. Was [W]'s official position that of [X]? I am sure my answer is [Y],0.0,Yes,P39
+129,Was [P39_TA]'s official role [P39_TB]? Yes. Was [P39_TA]'s official role [P39_TB]? Yes. Was [W]'s official role [X]? I am sure my answer is [Y],0.0,Yes,P39
+130,Was [P39_TA]'s official role that of [P39_TB]? Yes. Was [P39_TA]'s official role that of [P39_TB]? Yes. Was [W]'s official role that of [X]? I am sure my answer is [Y],0.0,Yes,P39
+131,Was [P39_TA]'s position [P39_TB]? Yes. Was [P39_TA]'s position [P39_TB]? Yes. Was [W]'s position [X]? I am sure my answer is [Y],0.0,Yes,P39
+132,Was [P39_TA]'s position that of [P39_TB]? Yes. Was [P39_TA]'s position that of [P39_TB]? Yes. Was [W]'s position that of [X]? I am sure my answer is [Y],0.0,Yes,P39
+133,Was [P39_TA]'s public position [P39_TB]? Yes. Was [P39_TA]'s public position [P39_TB]? Yes. Was [W]'s public position [X]? I am sure my answer is [Y],0.0,Yes,P39
+134,Was [P39_TA]'s public position that of [P39_TB]? Yes. Was [P39_TA]'s public position that of [P39_TB]? Yes. Was [W]'s public position that of [X]? I am sure my answer is [Y],0.0,Yes,P39
+135,Was [P39_TA]'s public role [P39_TB]? Yes. Was [P39_TA]'s public role [P39_TB]? Yes. Was [W]'s public role [X]? I am sure my answer is [Y],0.0,Yes,P39
+136,Was [P39_TA]'s public role that of [P39_TB]? Yes. Was [P39_TA]'s public role that of [P39_TB]? Yes. Was [W]'s public role that of [X]? I am sure my answer is [Y],0.0,Yes,P39
+137,Was [P39_TA]'s role [P39_TB]? Yes. Was [P39_TA]'s role [P39_TB]? Yes. Was [W]'s role [X]? I am sure my answer is [Y],0.0,Yes,P39
+138,Was [P39_TA]'s role that of [P39_TB]? Yes. Was [P39_TA]'s role that of [P39_TB]? Yes. Was [W]'s role that of [X]? I am sure my answer is [Y],0.0,Yes,P39
+139,Does [P279_TA] belong to the [P279_TB] category? Yes. Does [P279_TA] belong to the [P279_TB] category? Yes. Does [W] belong to the [X] category? I am sure my answer is [Y],0.01037344398340249,Yes,P279
+140,Does [P279_TA] have class [P279_TB]? Yes. Does [P279_TA] have class [P279_TB]? Yes. Does [W] have class [X]? I am sure my answer is [Y],0.010892116182572614,Yes,P279
+141,Is [P279_TA] a [P279_TB]? Yes. Is [P279_TA] a [P279_TB]? Yes. Is [W] a [X]? I am sure my answer is [Y],0.032157676348547715,Yes,P279
+142,Is [P279_TA] a kind of [P279_TB]? Yes. Is [P279_TA] a kind of [P279_TB]? Yes. Is [W] a kind of [X]? I am sure my answer is [Y],0.049273858921161824,Yes,P279
+143,Is [P279_TA] a subclass of [P279_TB]? Yes. Is [P279_TA] a subclass of [P279_TB]? Yes. Is [W] a subclass of [X]? I am sure my answer is [Y],0.006742738589211619,Yes,P279
+144,Is [P279_TA] a type of [P279_TB]? Yes. Is [P279_TA] a type of [P279_TB]? Yes. Is [W] a type of [X]? I am sure my answer is [Y],0.01711618257261411,Yes,P279
+145,Is [P279_TA] of class [P279_TB]? Yes. Is [P279_TA] of class [P279_TB]? Yes. Is [W] of class [X]? I am sure my answer is [Y],0.03008298755186722,Yes,P279
+146,Is [P279_TB] the class of [P279_TA]? Yes. Is [P279_TB] the class of [P279_TA]? Yes. Is [X] the class of [W]? I am sure my answer is [Y],0.00933609958506224,Yes,P279
+147,Is [P364_TB] the language of [P364_TA]? Yes. Is [P364_TB] the language of [P364_TA]? Yes. Is [X] the language of [W]? I am sure my answer is [Y],0.15070093457943926,Yes,P364
+148,Is [P364_TB] the original language of [P364_TA]? Yes. Is [P364_TB] the original language of [P364_TA]? Yes. Is [X] the original language of [W]? I am sure my answer is [Y],0.1705607476635514,Yes,P364
+149,Was [P364_TA] originally performed in [P364_TB]? Yes. Was [P364_TA] originally performed in [P364_TB]? Yes. Was [W] originally performed in [X]? I am sure my answer is [Y],0.04205607476635514,Yes,P364
+150,Was [P364_TA] originally performed in language [P364_TB]? Yes. Was [P364_TA] originally performed in language [P364_TB]? Yes. Was [W] originally performed in language [X]? I am sure my answer is [Y],0.10514018691588785,Yes,P364
+151,Was [P364_TA] originally performed in the [P364_TB] language? Yes. Was [P364_TA] originally performed in the [P364_TB] language? Yes. Was [W] originally performed in the [X] language? I am sure my answer is [Y],0.03212616822429906,Yes,P364
+152,Was [P364_TA] originally performed in the following language: [P364_TB]? Yes. Was [P364_TA] originally performed in the following language: [P364_TB]? Yes. Was [W] originally performed in the following language: [X]? I am sure my answer is [Y],0.07359813084112149,Yes,P364
+153,Was [P364_TA] originally played in [P364_TB]? Yes. Was [P364_TA] originally played in [P364_TB]? Yes. Was [W] originally played in [X]? I am sure my answer is [Y],0.012266355140186916,Yes,P364
+154,Was [P364_TA] originally played in language [P364_TB]? Yes. Was [P364_TA] originally played in language [P364_TB]? Yes. Was [W] originally played in language [X]? I am sure my answer is [Y],0.06016355140186916,Yes,P364
+155,Was [P364_TA] originally played in the [P364_TB] language? Yes. Was [P364_TA] originally played in the [P364_TB] language? Yes. Was [W] originally played in the [X] language? I am sure my answer is [Y],0.009929906542056074,Yes,P364
+156,Was [P364_TA] originally played in the following language: [P364_TB]? Yes. Was [P364_TA] originally played in the following language: [P364_TB]? Yes. Was [W] originally played in the following language: [X]? I am sure my answer is [Y],0.054906542056074766,Yes,P364
+157,Was [P364_TB] the language of [P364_TA]? Yes. Was [P364_TB] the language of [P364_TA]? Yes. Was [X] the language of [W]? I am sure my answer is [Y],0.06775700934579439,Yes,P364
+158,Was [P364_TB] the original language of [P364_TA]? Yes. Was [P364_TB] the original language of [P364_TA]? Yes. Was [X] the original language of [W]? I am sure my answer is [Y],0.04964953271028037,Yes,P364
+159,Did [P495_TA] come from [P495_TB]? Yes. Did [P495_TA] come from [P495_TB]? Yes. Did [W] come from [X]? I am sure my answer is [Y],0.04950495049504951,Yes,P495
+160,Did [P495_TA] form in [P495_TB]? Yes. Did [P495_TA] form in [P495_TB]? Yes. Did [W] form in [X]? I am sure my answer is [Y],0.05555555555555555,Yes,P495
+161,Did [P495_TA] originate in [P495_TB]? Yes. Did [P495_TA] originate in [P495_TB]? Yes. Did [W] originate in [X]? I am sure my answer is [Y],0.00935093509350935,Yes,P495
+162,Does [P495_TA] come from [P495_TB]? Yes. Does [P495_TA] come from [P495_TB]? Yes. Does [W] come from [X]? I am sure my answer is [Y],0.05555555555555555,Yes,P495
+163,Does [P495_TA] originate in [P495_TB]? Yes. Does [P495_TA] originate in [P495_TB]? Yes. Does [W] originate in [X]? I am sure my answer is [Y],0.0176017601760176,Yes,P495
+164,Is [P495_TA] formulated in [P495_TB]? Yes. Is [P495_TA] formulated in [P495_TB]? Yes. Is [W] formulated in [X]? I am sure my answer is [Y],0.045104510451045104,Yes,P495
+165,Is [P495_TA] from [P495_TB]? Yes. Is [P495_TA] from [P495_TB]? Yes. Is [W] from [X]? I am sure my answer is [Y],0.09570957095709572,Yes,P495
+166,Is [P495_TB] [P495_TA]'s original country? Yes. Is [P495_TB] [P495_TA]'s original country? Yes. Is [X] [W]'s original country? I am sure my answer is [Y],0.040154015401540157,Yes,P495
+167,Is [P495_TB] the original country of [P495_TA]? Yes. Is [P495_TB] the original country of [P495_TA]? Yes. Is [X] the original country of [W]? I am sure my answer is [Y],0.024752475247524754,Yes,P495
+168,Was [P495_TA] created in [P495_TB]? Yes. Was [P495_TA] created in [P495_TB]? Yes. Was [W] created in [X]? I am sure my answer is [Y],0.03135313531353135,Yes,P495
+169,Was [P495_TA] developed in [P495_TB]? Yes. Was [P495_TA] developed in [P495_TB]? Yes. Was [W] developed in [X]? I am sure my answer is [Y],0.005500550055005501,Yes,P495
+170,Was [P495_TA] first created in [P495_TB]? Yes. Was [P495_TA] first created in [P495_TB]? Yes. Was [W] first created in [X]? I am sure my answer is [Y],0.017051705170517052,Yes,P495
+171,Was [P495_TA] first made in [P495_TB]? Yes. Was [P495_TA] first made in [P495_TB]? Yes. Was [W] first made in [X]? I am sure my answer is [Y],0.018151815181518153,Yes,P495
+172,Was [P495_TA] first produced in [P495_TB]? Yes. Was [P495_TA] first produced in [P495_TB]? Yes. Was [W] first produced in [X]? I am sure my answer is [Y],0.00825082508250825,Yes,P495
+173,Was [P495_TA] formed in [P495_TB]? Yes. Was [P495_TA] formed in [P495_TB]? Yes. Was [W] formed in [X]? I am sure my answer is [Y],0.00825082508250825,Yes,P495
+174,Was [P495_TA] formulated in [P495_TB]? Yes. Was [P495_TA] formulated in [P495_TB]? Yes. Was [W] formulated in [X]? I am sure my answer is [Y],0.01595159515951595,Yes,P495
+175,Was [P495_TA] from [P495_TB]? Yes. Was [P495_TA] from [P495_TB]? Yes. Was [W] from [X]? I am sure my answer is [Y],0.009900990099009901,Yes,P495
+176,Did [P740_TA] form in [P740_TB]? Yes. Did [P740_TA] form in [P740_TB]? Yes. Did [W] form in [X]? I am sure my answer is [Y],0.014957264957264958,Yes,P740
+177,Did [P740_TA] originate in [P740_TB]? Yes. Did [P740_TA] originate in [P740_TB]? Yes. Did [W] originate in [X]? I am sure my answer is [Y],0.004273504273504274,Yes,P740
+178,Did [P740_TA] start in [P740_TB]? Yes. Did [P740_TA] start in [P740_TB]? Yes. Did [W] start in [X]? I am sure my answer is [Y],0.007478632478632479,Yes,P740
+179,Was [P740_TA] created in [P740_TB]? Yes. Was [P740_TA] created in [P740_TB]? Yes. Was [W] created in [X]? I am sure my answer is [Y],0.01655982905982906,Yes,P740
+180,Was [P740_TA] formed in [P740_TB]? Yes. Was [P740_TA] formed in [P740_TB]? Yes. Was [W] formed in [X]? I am sure my answer is [Y],0.0037393162393162395,Yes,P740
+181,Was [P740_TA] founded in [P740_TB]? Yes. Was [P740_TA] founded in [P740_TB]? Yes. Was [W] founded in [X]? I am sure my answer is [Y],0.004273504273504274,Yes,P740
+182,Was [P740_TA] started in [P740_TB]? Yes. Was [P740_TA] started in [P740_TB]? Yes. Was [W] started in [X]? I am sure my answer is [Y],0.017094017094017096,Yes,P740
+183,Did [P937_TA] find employment in [P937_TB]? Yes. Did [P937_TA] find employment in [P937_TB]? Yes. Did [W] find employment in [X]? I am sure my answer is [Y],0.0010482180293501049,Yes,P937
+184,Did [P937_TA] take up work in [P937_TB]? Yes. Did [P937_TA] take up work in [P937_TB]? Yes. Did [W] take up work in [X]? I am sure my answer is [Y],0.0005241090146750524,Yes,P937
+185,Did [P937_TA] use to work in [P937_TB]? Yes. Did [P937_TA] use to work in [P937_TB]? Yes. Did [W] use to work in [X]? I am sure my answer is [Y],0.0,Yes,P937
+186,Did [P937_TA] work in [P937_TB]? Yes. Did [P937_TA] work in [P937_TB]? Yes. Did [W] work in [X]? I am sure my answer is [Y],0.0005241090146750524,Yes,P937
+187,Does [P937_TA] work in [P937_TB]? Yes. Does [P937_TA] work in [P937_TB]? Yes. Does [W] work in [X]? I am sure my answer is [Y],0.0005241090146750524,Yes,P937
+188,Is [P937_TA] employed in [P937_TB]? Yes. Is [P937_TA] employed in [P937_TB]? Yes. Is [W] employed in [X]? I am sure my answer is [Y],0.006289308176100629,Yes,P937
+189,Is [P937_TB] [P937_TA]'s employment location? Yes. Is [P937_TB] [P937_TA]'s employment location? Yes. Is [X] [W]'s employment location? I am sure my answer is [Y],0.002620545073375262,Yes,P937
+190,Is [P937_TB] [P937_TA]'s location of employment? Yes. Is [P937_TB] [P937_TA]'s location of employment? Yes. Is [X] [W]'s location of employment? I am sure my answer is [Y],0.0,Yes,P937
+191,Is [P937_TB] [P937_TA]'s work location? Yes. Is [P937_TB] [P937_TA]'s work location? Yes. Is [X] [W]'s work location? I am sure my answer is [Y],0.01519916142557652,Yes,P937
+192,Is [P937_TB] where [P937_TA] is employed? Yes. Is [P937_TB] where [P937_TA] is employed? Yes. Is [X] where [W] is employed? I am sure my answer is [Y],0.0005241090146750524,Yes,P937
+193,Is [P937_TB] where [P937_TA] was employed? Yes. Is [P937_TB] where [P937_TA] was employed? Yes. Is [X] where [W] was employed? I am sure my answer is [Y],0.0005241090146750524,Yes,P937
+194,Was [P937_TA] employed in [P937_TB]? Yes. Was [P937_TA] employed in [P937_TB]? Yes. Was [W] employed in [X]? I am sure my answer is [Y],0.0005241090146750524,Yes,P937
+195,Was [P937_TB] [P937_TA]'s employment location? Yes. Was [P937_TB] [P937_TA]'s employment location? Yes. Was [X] [W]'s employment location? I am sure my answer is [Y],0.0,Yes,P937
+196,Was [P937_TB] [P937_TA]'s location of employment? Yes. Was [P937_TB] [P937_TA]'s location of employment? Yes. Was [X] [W]'s location of employment? I am sure my answer is [Y],0.0,Yes,P937
+197,Was [P937_TB] [P937_TA]'s work location? Yes. Was [P937_TB] [P937_TA]'s work location? Yes. Was [X] [W]'s work location? I am sure my answer is [Y],0.0,Yes,P937

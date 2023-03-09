@@ -1,0 +1,14 @@
+# STABLE
+- P30	continent
+- P495	country_of_origin
+- P740	location_of_formation
+- P103	native_language
+- P364	original_language_of_film_or_TV_show
+- P19	place_of_birth
+- P20	place_of_death
+- P279	subclass_of
+
+# MUTABLE
+- P108	employer
+- P39	position_held
+- P937	work_location

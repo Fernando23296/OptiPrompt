@@ -1,0 +1,195 @@
+,question,acc,target,fact
+0,Does [W] speak [X] as a mother tongue? Answer is: [Y],0.0,yes,P103
+1,Does [W] speak [X] as a native language? Answer is: [Y],0.0,yes,P103
+2,Is [X] [W]'s mother tongue? Answer is: [Y],0.030194472876151485,yes,P103
+3,Is [X] [W]'s native language? Answer is: [Y],0.0127942681678608,yes,P103
+4,Does [W] work for [X]? Answer is: [Y],0.0013054830287206266,yes,P108
+5,Is [W] employed by [X]? Answer is: [Y],0.0,yes,P108
+6,Did [W] originate from [X]? Answer is: [Y],0.1763771186440678,yes,P19
+7,Does [W] originate from [X]? Answer is: [Y],0.2478813559322034,yes,P19
+8,Is [W] a [X]-born person? Answer is: [Y],0.04025423728813559,yes,P19
+9,Is [W] an [X]-born person? Answer is: [Y],0.02913135593220339,yes,P19
+10,Is [W] native to [X]? Answer is: [Y],0.1016949152542373,yes,P19
+11,Is [W] originally from [X]? Answer is: [Y],0.4867584745762712,yes,P19
+12,Is [X] [W]'s birthplace? Answer is: [Y],0.12976694915254236,yes,P19
+13,Is [X] [W]'s place of birth? Answer is: [Y],0.17796610169491525,yes,P19
+14,Was [W] a [X]-born person? Answer is: [Y],0.025953389830508475,yes,P19
+15,Was [W] an [X]-born person? Answer is: [Y],0.020127118644067795,yes,P19
+16,Was [W] born in [X]? Answer is: [Y],0.06673728813559322,yes,P19
+17,Was [W] native to [X]? Answer is: [Y],0.1329449152542373,yes,P19
+18,Was [W] originally from [X]? Answer is: [Y],0.4057203389830508,yes,P19
+19,Was [X] [W]'s birthplace? Answer is: [Y],0.16154661016949154,yes,P19
+20,Was [X] [W]'s place of birth? Answer is: [Y],0.2457627118644068,yes,P19
+21,Did [W] die at [X]? Answer is: [Y],0.01626442812172088,yes,P20
+22,Did [W] die in [X]? Answer is: [Y],0.012591815320041973,yes,P20
+23,Did [W] expire at [X]? Answer is: [Y],0.00944386149003148,yes,P20
+24,Did [W] expire in [X]? Answer is: [Y],0.02098635886673662,yes,P20
+25,Did [W] lose their life at [X]? Answer is: [Y],0.002098635886673662,yes,P20
+26,Did [W] lose their life in [X]? Answer is: [Y],0.0026232948583420775,yes,P20
+27,Did [W] pass away at [X]? Answer is: [Y],0.018363064008394544,yes,P20
+28,Did [W] pass away in [X]? Answer is: [Y],0.04512067156348373,yes,P20
+29,Did [W] succumb at [X]? Answer is: [Y],0.0005246589716684155,yes,P20
+30,Did [W] succumb in [X]? Answer is: [Y],0.0015739769150052466,yes,P20
+31,Did [W]'s life end at [X]? Answer is: [Y],0.0031479538300104933,yes,P20
+32,Did [W]'s life end in [X]? Answer is: [Y],0.005771248688352571,yes,P20
+33,Is [X] [W]'s death location? Answer is: [Y],0.3279118572927597,yes,P20
+34,Is [X] [W]'s death place? Answer is: [Y],0.16474291710388247,yes,P20
+35,Is [X] [W]'s place of death? Answer is: [Y],0.021511017838405037,yes,P20
+36,Was [X] [W]'s death location? Answer is: [Y],0.36988457502623295,yes,P20
+37,Was [X] [W]'s death place? Answer is: [Y],0.3237145855194124,yes,P20
+38,Was [X] [W]'s place of death? Answer is: [Y],0.03305351521511018,yes,P20
+39,Does [W] belong to continent [X]? Answer is: [Y],0.026153846153846153,yes,P30
+40,Does [W] belong to the continent of [X]? Answer is: [Y],0.05076923076923077,yes,P30
+41,Is [W] a part of continent [X]? Answer is: [Y],0.011794871794871795,yes,P30
+42,Is [W] a part of the continent [X]? Answer is: [Y],0.007692307692307693,yes,P30
+43,Is [W] a part of the continent of [X]? Answer is: [Y],0.043076923076923075,yes,P30
+44,Is [W] located in [X]? Answer is: [Y],0.12,yes,P30
+45,Is [W] located in continent [X]? Answer is: [Y],0.20871794871794871,yes,P30
+46,Is [W] located in the [X] continent? Answer is: [Y],0.33487179487179486,yes,P30
+47,Is [W] located in the continent [X]? Answer is: [Y],0.24871794871794872,yes,P30
+48,Is [W] part of the [X] continent? Answer is: [Y],0.047692307692307694,yes,P30
+49,Is [X] [W]'s continent? Answer is: [Y],0.04,yes,P30
+50,Is [X] the continent of [W]? Answer is: [Y],0.06564102564102564,yes,P30
+51,Did [W] have the [X] position? Answer is: [Y],0.0011210762331838565,yes,P39
+52,Did [W] have the [X] role? Answer is: [Y],0.0005605381165919282,yes,P39
+53,Did [W] have the official [X] position? Answer is: [Y],0.0005605381165919282,yes,P39
+54,Did [W] have the official [X] role? Answer is: [Y],0.0005605381165919282,yes,P39
+55,Did [W] have the official position of [X]? Answer is: [Y],0.003923766816143498,yes,P39
+56,Did [W] have the official role of [X]? Answer is: [Y],0.002242152466367713,yes,P39
+57,Did [W] have the position of [X]? Answer is: [Y],0.01905829596412556,yes,P39
+58,Did [W] have the public [X] position? Answer is: [Y],0.0,yes,P39
+59,Did [W] have the public [X] role? Answer is: [Y],0.0,yes,P39
+60,Did [W] have the public position of [X]? Answer is: [Y],0.002802690582959641,yes,P39
+61,Did [W] have the public role of [X]? Answer is: [Y],0.002242152466367713,yes,P39
+62,Did [W] have the role of [X]? Answer is: [Y],0.004484304932735426,yes,P39
+63,Did [W] hold the [X] position? Answer is: [Y],0.0,yes,P39
+64,Did [W] hold the [X] role? Answer is: [Y],0.0005605381165919282,yes,P39
+65,Did [W] hold the official [X] position? Answer is: [Y],0.0,yes,P39
+66,Did [W] hold the official [X] role? Answer is: [Y],0.0,yes,P39
+67,Did [W] hold the official position of [X]? Answer is: [Y],0.003923766816143498,yes,P39
+68,Did [W] hold the official role of [X]? Answer is: [Y],0.0005605381165919282,yes,P39
+69,Did [W] hold the position of [X]? Answer is: [Y],0.005605381165919282,yes,P39
+70,Did [W] hold the public [X] position? Answer is: [Y],0.0,yes,P39
+71,Did [W] hold the public [X] role? Answer is: [Y],0.0,yes,P39
+72,Did [W] hold the public position of [X]? Answer is: [Y],0.0005605381165919282,yes,P39
+73,Did [W] hold the public role of [X]? Answer is: [Y],0.0,yes,P39
+74,Did [W] hold the role of [X]? Answer is: [Y],0.0011210762331838565,yes,P39
+75,Did [W] officially hold the [X] position? Answer is: [Y],0.002802690582959641,yes,P39
+76,Did [W] officially hold the [X] role? Answer is: [Y],0.0016816143497757848,yes,P39
+77,Did [W] officially hold the position of [X]? Answer is: [Y],0.010089686098654708,yes,P39
+78,Did [W] officially hold the public [X] position? Answer is: [Y],0.0016816143497757848,yes,P39
+79,Did [W] officially hold the public [X] role? Answer is: [Y],0.0005605381165919282,yes,P39
+80,Did [W] officially hold the public position of [X]? Answer is: [Y],0.005044843049327354,yes,P39
+81,Did [W] officially hold the public role of [X]? Answer is: [Y],0.0011210762331838565,yes,P39
+82,Did [W] officially hold the role of [X]? Answer is: [Y],0.002242152466367713,yes,P39
+83,Does [W] have the [X] position? Answer is: [Y],0.0011210762331838565,yes,P39
+84,Does [W] have the [X] role? Answer is: [Y],0.0016816143497757848,yes,P39
+85,Does [W] have the official [X] position? Answer is: [Y],0.0,yes,P39
+86,Does [W] have the official [X] role? Answer is: [Y],0.0005605381165919282,yes,P39
+87,Does [W] have the official position of [X]? Answer is: [Y],0.0,yes,P39
+88,Does [W] have the official role of [X]? Answer is: [Y],0.0,yes,P39
+89,Does [W] have the position of [X]? Answer is: [Y],0.006726457399103139,yes,P39
+90,Does [W] have the public [X] position? Answer is: [Y],0.0,yes,P39
+91,Does [W] have the public [X] role? Answer is: [Y],0.0,yes,P39
+92,Does [W] have the public position of [X]? Answer is: [Y],0.0,yes,P39
+93,Does [W] have the public role of [X]? Answer is: [Y],0.0,yes,P39
+94,Does [W] have the role of [X]? Answer is: [Y],0.002242152466367713,yes,P39
+95,Does [W] hold the [X] position? Answer is: [Y],0.0005605381165919282,yes,P39
+96,Does [W] hold the [X] role? Answer is: [Y],0.0005605381165919282,yes,P39
+97,Does [W] hold the official [X] position? Answer is: [Y],0.0,yes,P39
+98,Does [W] hold the official [X] role? Answer is: [Y],0.0,yes,P39
+99,Does [W] hold the official position of [X]? Answer is: [Y],0.0,yes,P39
+100,Does [W] hold the official role of [X]? Answer is: [Y],0.0,yes,P39
+101,Does [W] hold the position of [X]? Answer is: [Y],0.0005605381165919282,yes,P39
+102,Does [W] hold the public [X] position? Answer is: [Y],0.0,yes,P39
+103,Does [W] hold the public [X] role? Answer is: [Y],0.0,yes,P39
+104,Does [W] hold the public position of [X]? Answer is: [Y],0.0,yes,P39
+105,Does [W] hold the public role of [X]? Answer is: [Y],0.0,yes,P39
+106,Does [W] hold the role of [X]? Answer is: [Y],0.0005605381165919282,yes,P39
+107,Does [W] officially hold the [X] position? Answer is: [Y],0.002242152466367713,yes,P39
+108,Does [W] officially hold the [X] role? Answer is: [Y],0.0016816143497757848,yes,P39
+109,Does [W] officially hold the position of [X]? Answer is: [Y],0.002242152466367713,yes,P39
+110,Does [W] officially hold the public [X] position? Answer is: [Y],0.0016816143497757848,yes,P39
+111,Does [W] officially hold the public [X] role? Answer is: [Y],0.0011210762331838565,yes,P39
+112,Does [W] officially hold the public position of [X]? Answer is: [Y],0.002242152466367713,yes,P39
+113,Does [W] officially hold the public role of [X]? Answer is: [Y],0.0005605381165919282,yes,P39
+114,Does [W] officially hold the role of [X]? Answer is: [Y],0.0011210762331838565,yes,P39
+115,Is [W]'s official position [X]? Answer is: [Y],0.0011210762331838565,yes,P39
+116,Is [W]'s official position that of [X]? Answer is: [Y],0.0,yes,P39
+117,Is [W]'s official role [X]? Answer is: [Y],0.0016816143497757848,yes,P39
+118,Is [W]'s official role that of [X]? Answer is: [Y],0.0,yes,P39
+119,Is [W]'s position [X]? Answer is: [Y],0.00616591928251121,yes,P39
+120,Is [W]'s position that of [X]? Answer is: [Y],0.0016816143497757848,yes,P39
+121,Is [W]'s public position [X]? Answer is: [Y],0.002242152466367713,yes,P39
+122,Is [W]'s public position that of [X]? Answer is: [Y],0.0,yes,P39
+123,Is [W]'s public role [X]? Answer is: [Y],0.0011210762331838565,yes,P39
+124,Is [W]'s public role that of [X]? Answer is: [Y],0.0,yes,P39
+125,Is [W]'s role [X]? Answer is: [Y],0.005044843049327354,yes,P39
+126,Is [W]'s role that of [X]? Answer is: [Y],0.0011210762331838565,yes,P39
+127,Was [W]'s official position [X]? Answer is: [Y],0.005044843049327354,yes,P39
+128,Was [W]'s official position that of [X]? Answer is: [Y],0.0,yes,P39
+129,Was [W]'s official role [X]? Answer is: [Y],0.0033632286995515697,yes,P39
+130,Was [W]'s official role that of [X]? Answer is: [Y],0.0,yes,P39
+131,Was [W]'s position [X]? Answer is: [Y],0.0072869955156950675,yes,P39
+132,Was [W]'s position that of [X]? Answer is: [Y],0.0,yes,P39
+133,Was [W]'s public position [X]? Answer is: [Y],0.0033632286995515697,yes,P39
+134,Was [W]'s public position that of [X]? Answer is: [Y],0.0005605381165919282,yes,P39
+135,Was [W]'s public role [X]? Answer is: [Y],0.0033632286995515697,yes,P39
+136,Was [W]'s public role that of [X]? Answer is: [Y],0.0,yes,P39
+137,Was [W]'s role [X]? Answer is: [Y],0.004484304932735426,yes,P39
+138,Was [W]'s role that of [X]? Answer is: [Y],0.0005605381165919282,yes,P39
+139,Does [W] belong to the [X] category? Answer is: [Y],0.25,yes,P279
+140,Does [W] have class [X]? Answer is: [Y],0.09906639004149377,yes,P279
+141,Is [W] a [X]? Answer is: [Y],0.08143153526970955,yes,P279
+142,Is [W] a kind of [X]? Answer is: [Y],0.2204356846473029,yes,P279
+143,Is [W] a subclass of [X]? Answer is: [Y],0.14885892116182572,yes,P279
+144,Is [W] a type of [X]? Answer is: [Y],0.33454356846473027,yes,P279
+145,Is [W] of class [X]? Answer is: [Y],0.2733402489626556,yes,P279
+146,Is [X] the class of [W]? Answer is: [Y],0.23703319502074688,yes,P279
+147,Is [X] the language of [W]? Answer is: [Y],0.09404205607476636,yes,P364
+148,Is [X] the original language of [W]? Answer is: [Y],0.016355140186915886,yes,P364
+149,Was [W] originally performed in [X]? Answer is: [Y],0.4030373831775701,yes,P364
+150,Was [W] originally performed in language [X]? Answer is: [Y],0.3195093457943925,yes,P364
+151,Was [W] originally performed in the [X] language? Answer is: [Y],0.46203271028037385,yes,P364
+152,Was [W] originally performed in the following language: [X]? Answer is: [Y],0.44567757009345793,yes,P364
+153,Was [W] originally played in [X]? Answer is: [Y],0.3732476635514019,yes,P364
+154,Was [W] originally played in language [X]? Answer is: [Y],0.28095794392523366,yes,P364
+155,Was [W] originally played in the [X] language? Answer is: [Y],0.43399532710280375,yes,P364
+156,Was [W] originally played in the following language: [X]? Answer is: [Y],0.4217289719626168,yes,P364
+157,Was [X] the language of [W]? Answer is: [Y],0.1366822429906542,yes,P364
+158,Was [X] the original language of [W]? Answer is: [Y],0.04672897196261682,yes,P364
+159,Did [W] come from [X]? Answer is: [Y],0.02695269526952695,yes,P495
+160,Did [W] form in [X]? Answer is: [Y],0.14155982905982906,yes,P740
+161,Did [W] originate in [X]? Answer is: [Y],0.26282051282051283,yes,P740
+162,Does [W] come from [X]? Answer is: [Y],0.02695269526952695,yes,P495
+163,Does [W] originate in [X]? Answer is: [Y],0.08965896589658966,yes,P495
+164,Is [W] formulated in [X]? Answer is: [Y],0.13091309130913092,yes,P495
+165,Is [W] from [X]? Answer is: [Y],0.07315731573157316,yes,P495
+166,Is [X] [W]'s original country? Answer is: [Y],0.03685368536853685,yes,P495
+167,Is [X] the original country of [W]? Answer is: [Y],0.11496149614961496,yes,P495
+168,Was [W] created in [X]? Answer is: [Y],0.15705128205128205,yes,P740
+169,Was [W] developed in [X]? Answer is: [Y],0.1001100110011001,yes,P495
+170,Was [W] first created in [X]? Answer is: [Y],0.41694169416941695,yes,P495
+171,Was [W] first made in [X]? Answer is: [Y],0.41254125412541254,yes,P495
+172,Was [W] first produced in [X]? Answer is: [Y],0.4097909790979098,yes,P495
+173,Was [W] formed in [X]? Answer is: [Y],0.27724358974358976,yes,P740
+174,Was [W] formulated in [X]? Answer is: [Y],0.09020902090209021,yes,P495
+175,Was [W] from [X]? Answer is: [Y],0.0319031903190319,yes,P495
+176,Did [W] start in [X]? Answer is: [Y],0.1971153846153846,yes,P740
+177,Was [W] founded in [X]? Answer is: [Y],0.23985042735042736,yes,P740
+178,Was [W] started in [X]? Answer is: [Y],0.27884615384615385,yes,P740
+179,Did [W] find employment in [X]? Answer is: [Y],0.0,yes,P937
+180,Did [W] take up work in [X]? Answer is: [Y],0.02148846960167715,yes,P937
+181,Did [W] use to work in [X]? Answer is: [Y],0.0041928721174004195,yes,P937
+182,Did [W] work in [X]? Answer is: [Y],0.006289308176100629,yes,P937
+183,Does [W] work in [X]? Answer is: [Y],0.0010482180293501049,yes,P937
+184,Is [W] employed in [X]? Answer is: [Y],0.0015723270440251573,yes,P937
+185,Is [X] [W]'s employment location? Answer is: [Y],0.2358490566037736,yes,P937
+186,Is [X] [W]'s location of employment? Answer is: [Y],0.020440251572327043,yes,P937
+187,Is [X] [W]'s work location? Answer is: [Y],0.41037735849056606,yes,P937
+188,Is [X] where [W] is employed? Answer is: [Y],0.09276729559748427,yes,P937
+189,Is [X] where [W] was employed? Answer is: [Y],0.11582809224318659,yes,P937
+190,Was [W] employed in [X]? Answer is: [Y],0.0031446540880503146,yes,P937
+191,Was [X] [W]'s employment location? Answer is: [Y],0.14622641509433962,yes,P937
+192,Was [X] [W]'s location of employment? Answer is: [Y],0.04245283018867924,yes,P937
+193,Was [X] [W]'s work location? Answer is: [Y],0.2751572327044025,yes,P937

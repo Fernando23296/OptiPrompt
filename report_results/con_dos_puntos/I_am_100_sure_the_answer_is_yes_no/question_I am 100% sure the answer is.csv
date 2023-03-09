@@ -1,0 +1,12 @@
+fact_x,question,accuracy
+P103,Is [X] [W]'s native language? I am 100% sure the answer is: [Y],0.4953940634595701
+P108,Is [W] employed by [X]? I am 100% sure the answer is: [Y],0.5208877284595299
+P19,Was [X] [W]'s place of birth? I am 100% sure the answer is: [Y],0.5153601694915254
+P20,Was [X] [W]'s place of death? I am 100% sure the answer is: [Y],0.5209863588667366
+P279,Is [X] the class of [W]? I am 100% sure the answer is: [Y],0.517116182572614
+P30,Is [X] the continent of [W]? I am 100% sure the answer is: [Y],0.5794871794871794
+P364,Was [X] the original language of [W]? I am 100% sure the answer is: [Y],0.5
+P39,Was [W]'s role that of [X]? I am 100% sure the answer is: [Y],0.4983183856502241
+P495,Was [W] from [X]? I am 100% sure the answer is: [Y],0.5148514851485149
+P740,Was [W] started in [X]? I am 100% sure the answer is: [Y],0.5117521367521367
+P937,Was [X] [W]'s work location? I am 100% sure the answer is: [Y],0.5246331236897274

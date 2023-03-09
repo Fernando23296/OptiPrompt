@@ -1,0 +1,42 @@
+accuracy,type,label
+88.37209302325581,N-1,manufacturer
+83.89261744966443,1-1,capital of
+78.85714285714286,N-M,member of
+71.14337568058076,N-M,developer
+70.73707370737074,N-1,native language
+69.89247311827957,N-M,applies to jurisdiction
+68.40317100792753,N-M,"languages spoken, written or signed"
+51.955307262569825,1-1,capital
+51.76886792452831,N-1,official language
+49.794238683127574,N-1,original language of film or TV show
+39.42652329749104,N-1,owned by
+38.7905604719764,N-1,location
+30.34825870646766,N-1,original network
+29.599999999999998,N-1,named after
+29.449423815621,N-1,subclass of
+29.06666666666667,N-1,headquarters location
+23.711340206185564,N-1,part of
+19.167579408543265,N-M,has part
+17.73220747889023,N-1,language of work or name
+16.939890710382514,N-1,located in the administrative territorial entity
+14.859926918392205,N-M,work location
+12.215909090909092,N-1,place of birth
+12.085769980506821,N-M,instrument
+11.986301369863012,N-M,shares border with
+9.555555555555555,N-1,country
+9.236947791164658,N-1,continent
+7.6923076923076925,N-M,employer
+6.92410119840213,N-1,place of death
+6.651884700665188,N-1,country of origin
+5.537459283387622,N-M,field of work
+3.594771241830065,N-M,position held
+3.159041394335512,N-M,diplomatic relation
+2.6151930261519305,N-M,instance of
+1.4311270125223614,N-M,twinned administrative body
+0.26666666666666666,N-M,occupation
+0.2457002457002457,N-1,location of formation
+0.13440860215053765,N-1,genre
+0.10615711252653928,N-M,country of citizenship
+0.0,N-1,position played on team / speciality
+0.0,N-1,religion
+0.0,N-1,record label

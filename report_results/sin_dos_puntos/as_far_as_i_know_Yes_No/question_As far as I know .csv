@@ -1,0 +1,12 @@
+fact_x,question,accuracy
+P103,Is [X] [W]'s native language? As far as I know [Y],0.47594677584442163
+P108,Is [W] employed by [X]? As far as I know [Y],0.5326370757180156
+P19,Was [X] [W]'s place of birth? As far as I know [Y],0.5052966101694915
+P20,Was [X] [W]'s place of death? As far as I know [Y],0.5031479538300104
+P279,Is [X] the class of [W]? As far as I know [Y],0.5134854771784232
+P30,Is [X] the continent of [W]? As far as I know [Y],0.501025641025641
+P364,Was [X] the original language of [W]? As far as I know [Y],0.5116822429906541
+P39,Was [W]'s role that of [X]? As far as I know [Y],0.5011210762331838
+P495,Was [W] from [X]? As far as I know [Y],0.5022002200220022
+P740,Was [W] started in [X]? As far as I know [Y],0.500534188034188
+P937,Was [X] [W]'s work location? As far as I know [Y],0.5057651991614256

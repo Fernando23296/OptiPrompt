@@ -1,0 +1,2 @@
+python main_qa.py --trusted "$val_trusted" --question "$val_question"
+python code/run_eval_prompts.py --model_name facebook/opt-350m --prompt_file prompts/LAMA_relations.jsonl --trusted  "$val_trusted" > aver11.txt

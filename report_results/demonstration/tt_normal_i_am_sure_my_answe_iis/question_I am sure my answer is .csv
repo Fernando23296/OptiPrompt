@@ -1,0 +1,12 @@
+fact_x,question,accuracy
+P103,Is [P103_TB] [P103_TA]'s native language? Yes. Is [P103_TB] [P103_TA]'s native language? Yes. Is [X] [W]'s native language? I am sure my answer is [Y],0.5061412487205731
+P108,Is [P108_TA] employed by [P108_TB]? Yes. Is [P108_TA] employed by [P108_TB]? Yes. Is [W] employed by [X]? I am sure my answer is [Y],0.5
+P19,Was [P19_TB] [P19_TA]'s place of birth? Yes. Was [P19_TB] [P19_TA]'s place of birth? Yes. Was [X] [W]'s place of birth? I am sure my answer is [Y],0.5058262711864406
+P20,Was [P20_TB] [P20_TA]'s place of death? Yes. Was [P20_TB] [P20_TA]'s place of death? Yes. Was [X] [W]'s place of death? I am sure my answer is [Y],0.5047219307450156
+P279,Is [P279_TB] the class of [P279_TA]? Yes. Is [P279_TB] the class of [P279_TA]? Yes. Is [X] the class of [W]? I am sure my answer is [Y],0.5031120331950207
+P30,Is [P30_TB] the continent of [P30_TA]? Yes. Is [P30_TB] the continent of [P30_TA]? Yes. Is [X] the continent of [W]? I am sure my answer is [Y],0.5056410256410256
+P364,Was [P364_TB] the original language of [P364_TA]? Yes. Was [P364_TB] the original language of [P364_TA]? Yes. Was [X] the original language of [W]? I am sure my answer is [Y],0.5245327102803737
+P39,Was [P39_TA]'s role that of [P39_TB]? Yes. Was [P39_TA]'s role that of [P39_TB]? Yes. Was [W]'s role that of [X]? I am sure my answer is [Y],0.5022421524663677
+P495,Was [P495_TA] from [P495_TB]? Yes. Was [P495_TA] from [P495_TB]? Yes. Was [W] from [X]? I am sure my answer is [Y],0.5110011001100109
+P740,Was [P740_TA] started in [P740_TB]? Yes. Was [P740_TA] started in [P740_TB]? Yes. Was [W] started in [X]? I am sure my answer is [Y],0.50267094017094
+P937,Was [P937_TB] [P937_TA]'s work location? Yes. Was [P937_TB] [P937_TA]'s work location? Yes. Was [X] [W]'s work location? I am sure my answer is [Y],0.5015723270440251
