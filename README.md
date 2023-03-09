@@ -1,5 +1,6 @@
 # OptiPrompt
-
+Run qa_admin_2.py to execute the code
+___
 This is the PyTorch implementation of the paper [Factual Probing Is [MASK]: Learning vs. Learning to Recall](https://arxiv.org/pdf/2104.05240.pdf).
 
 We propose OptiPrompt, a simple and effective approach for Factual Probing. OptiPrompt optimizes the prompts on the input embedding space directly. It outperforms previous prompting methods on the LAMA benchmark.
