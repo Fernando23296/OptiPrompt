@@ -7,7 +7,7 @@ import pickle
 from qa_utils import load_jsonl
 from making_prompt_jsonl import making_prompt_jsonl
 
-def making_multiple_prompt_jsonl(STATUS, TARGET, QUESTION_TYPE, SEQUENCE, TEMPLATES):
+def making_multiple_prompt_jsonl(STATUS, TARGET, QUESTION_TYPE, SEQUENCE, TEMPLATES, DEMONSTRATION_EXTRA):
     '''
     # three true facts before the fact to be tested
     SEQUENCE = "ttt"
@@ -137,5 +137,5 @@ def making_multiple_prompt_jsonl(STATUS, TARGET, QUESTION_TYPE, SEQUENCE, TEMPLA
 
 
 
-
-    making_prompt_jsonl(STATUS, QUESTION_TYPE, DEMONSTRATION = str(SEQUENCE + " " + TEMPLATES))
+    DEMONSTRATION = str(SEQUENCE + " " + TEMPLATES)
+    making_prompt_jsonl(STATUS, QUESTION_TYPE, DEMONSTRATION, DEMONSTRATION_EXTRA)

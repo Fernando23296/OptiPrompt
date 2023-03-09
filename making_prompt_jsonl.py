@@ -10,7 +10,7 @@ import random
 import pandas as pd
 
 
-def making_prompt_jsonl(STATUS, QUESTION_TYPE, DEMONSTRATION = False, SUPPORT = False):
+def making_prompt_jsonl(STATUS, QUESTION_TYPE, DEMONSTRATION = False, DEMONSTRATION_EXTRA = False, SUPPORT = False):
 
     #STATUS = "trusted"
     # question without ":"
@@ -56,7 +56,7 @@ def making_prompt_jsonl(STATUS, QUESTION_TYPE, DEMONSTRATION = False, SUPPORT = 
         return question
 
 
-    def joiner(list_masked, list_obj, list_sub, file_name, question, STATUS, DEMONSTRATION):
+    def joiner(list_masked, list_obj, list_sub, file_name, question, STATUS, DEMONSTRATION, DEMONSTRATION_EXTRA):
         n = []
         #print("List masked:", list_masked)
         #print("List obj:", list_obj)
@@ -103,11 +103,11 @@ def making_prompt_jsonl(STATUS, QUESTION_TYPE, DEMONSTRATION = False, SUPPORT = 
                         c_true = 0
                         c_fake = 0
                         if d == "T" or d == "t":
-                            state = "Yes. "
+                            state = DEMONSTRATION_EXTRA + "Yes. "
                             new_prompt += generate_prompt(file_name, list_masked[i], triplet_list_true[c_true], state)
                             c_true += 1
                         else:
-                            state = "No. "
+                            state = DEMONSTRATION_EXTRA + "No. "
                             new_prompt += generate_prompt(file_name, list_masked[i], triplet_list_fake[c_fake], state)
                             c_fake += 1
                             
@@ -124,12 +124,12 @@ def making_prompt_jsonl(STATUS, QUESTION_TYPE, DEMONSTRATION = False, SUPPORT = 
                                     break
                                     
                         if d == "T" or d == "t":
-                            state = "Yes. "
+                            state = DEMONSTRATION_EXTRA + "Yes. "
                             new_prompt += generate_prompt(file_name, list_masked[ii],triplet_list_true[c_true], state)
                             c_true += 1
                             
                         else:
-                            state = "No. "
+                            state = DEMONSTRATION_EXTRA + "No. "
                             new_prompt += generate_prompt(file_name, list_masked[ii],triplet_list_fake[c_fake], state)
                             c_fake += 1
                     
@@ -184,7 +184,7 @@ def making_prompt_jsonl(STATUS, QUESTION_TYPE, DEMONSTRATION = False, SUPPORT = 
                     t_ = load_jsonl("data/LAMA/data/TREx/"+t)
                     obj, sub = get_data(t_)
                     cr = clean_rows(v[2:])
-                    pre_df = jsonl_builder(joiner(cr, obj, sub, name, question, STATUS, DEMONSTRATION))
+                    pre_df = jsonl_builder(joiner(cr, obj, sub, name, question, STATUS, DEMONSTRATION, DEMONSTRATION_EXTRA))
                     pre_df_master.extend(pre_df)
                     #print(pre_df)
         df = pd.DataFrame(pre_df_master, columns = ["relation", "template", "status", "label", "description", "type"])

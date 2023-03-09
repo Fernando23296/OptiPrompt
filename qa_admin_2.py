@@ -6,11 +6,17 @@ import pandas as pd
 
 val_trusted_list = ["True", "False"]
 val_target_list = ["Yes","No"]
-# Don't forget to put a space at the end
-val_question_list = ['']
-SEQUENCES = False
-TEMPLATES = False
 
+# Don't forget to put a space at the end
+val_question_list = ['I would need to double check but maybe ']
+
+# if you don't want to add new questions then leave the brackets empty
+SEQUENCES = "tt"
+TEMPLATES = "normal"
+
+# single question for multiprompts
+# Don't forget to put a space at the end 
+DEMONSTRATION_EXTRA = "I would need to double check but maybe "
 
 def get_dic_questions(case):
     
@@ -65,7 +71,7 @@ for i in range(len(val_trusted_list)):
         #print("*"*10)
         #print(val_question)
         fname = str(val_trusted_list[i]) + "_" + str(val_target_list[i])
-        os.system(f"python main_qa.py --trusted {val_trusted_list[i]}  --target {val_target_list[i]} --question '{val_question}' --sequences '{SEQUENCES}' --templates '{TEMPLATES}'")
+        os.system(f"python main_qa.py --trusted {val_trusted_list[i]}  --target {val_target_list[i]} --question '{val_question}' --sequences '{SEQUENCES}' --templates '{TEMPLATES}' --extraquestion '{DEMONSTRATION_EXTRA}'")
         os.system(f"python code/run_eval_prompts.py --model_name facebook/opt-350m --prompt_file prompts/LAMA_relations.jsonl --trusted  {val_trusted_list[i]} --filename {fname}")
         
         src_folder = r"prompts/"
